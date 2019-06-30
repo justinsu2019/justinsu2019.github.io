@@ -19,6 +19,7 @@ header h1, header h2, footer h1, footer h2{
 h1{
   font-size: 40PX;
   font-weight: 700;
+  font-style: oblique;
 }
 
 body{
