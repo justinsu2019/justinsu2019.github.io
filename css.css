@@ -1,19 +1,31 @@
-body{
-     color: green;
-  }
-
-h1, h2, .class1{
-  color: red;
-
-}
 
 /*
 for ids, we will add '#' in front of it, and for classes, we will add '.' in front of it in our css files
 */
-.practise{
+
+header, footer{
+  background: #2B2D42;
+  color: #8D99AE;
+}
+
+header h1, header h2, footer h1, footer h2{
+  color: #EDF2F4
+}
+
+.work{
+  background: #EDF2F4;
   color: orange;
 }
 
-#id{
+.education{
+  background: #8D99AE;   
   color:blue;
+}
+
+a {
+  color: #EF233C;
+}
+
+a:hover {
+  text-decoration: none;
 }
