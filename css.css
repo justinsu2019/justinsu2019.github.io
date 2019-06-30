@@ -25,6 +25,7 @@ h1{
 }
 
 body{
+  margin:0;
   font-family: 'DM Serif Text', serif;
   line-height:10px; /* it should be related with font-size, normally bigger than font-size, 150% / 1,5 also works */
   display: inline-block; /* none will hidden everything, block will decorate a block outside of content, 
@@ -60,4 +61,5 @@ a:hover {
   color:red;
   text-align: center;
   margin:auto auto;
+  padding:40px;
 }
