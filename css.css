@@ -17,13 +17,17 @@ header h1, header h2, footer h1, footer h2{
 }
 
 h1{
+  text-align: center; /* left, right, etc. */
   font-size: 40PX;
   font-weight: 700;
   font-style: oblique;
+  text-transform: Capitalize; /* also UPPERCASE, lowercase, none*/
 }
 
 body{
   font-family: 'DM Serif Text', serif;
+  line-height:10px; /* it should be related with font-size, normally bigger than font-size, 150% / 1,5 also works */
+  
 }
 
 .work{
@@ -41,5 +45,5 @@ a {
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: none; /* also we have overline, underline, line-through*/
 }
