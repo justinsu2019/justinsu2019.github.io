@@ -9,11 +9,11 @@ header, footer{
 }
 
 header h1, header h2, footer h1, footer h2{
-  color: #EDF2F4
+  color: #EDF2F4;
 }
 
 h1{
-  font-size: 40PX
+  font-size: 40PX;
 }
 
 body{
