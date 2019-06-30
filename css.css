@@ -27,9 +27,10 @@ h1{
 body{
   font-family: 'DM Serif Text', serif;
   line-height:10px; /* it should be related with font-size, normally bigger than font-size, 150% / 1,5 also works */
-  display: inline; /* none will hidden everything, block will decorate a block outside of content, 
+  display: inline-block; /* none will hidden everything, block will decorate a block outside of content, 
   inline-block will make it inline and block around it*/
-  
+  padding:10px; /* inside space of an element: top,right,bottom,left */
+  margin:5px; /* outside space of an element */
 }
 
 .work{
@@ -48,4 +49,13 @@ a {
 
 a:hover {
   text-decoration: none; /* also we have overline, underline, line-through*/
+}
+
+.only-background{
+  background: lightblue
+}
+.text-wrap{
+  width:400px;
+  height:200px;
+  color:red
 }
