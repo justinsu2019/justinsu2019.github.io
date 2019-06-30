@@ -55,8 +55,9 @@ a:hover {
   background: lightblue
 }
 .text-wrap{
-  width:400px;
+  max-width:400px;
   height:200px;
   color:red;
   text-align: center;
+  margin:0px auto;
 }
