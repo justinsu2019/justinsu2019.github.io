@@ -12,6 +12,10 @@ header h1, header h2, footer h1, footer h2{
   color: #EDF2F4
 }
 
+body{
+  font-family: 'DM Serif Text', serif;
+}
+
 .work{
   background: #EDF2F4;
   color: orange;
