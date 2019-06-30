@@ -3,6 +3,10 @@
 for ids, we will add '#' in front of it, and for classes, we will add '.' in front of it in our css files
 */
 
+/*
+font weight 400 is normal, 700 is bold
+*/
+
 header, footer{
   background: #2B2D42;
   color: #8D99AE;
@@ -14,6 +18,7 @@ header h1, header h2, footer h1, footer h2{
 
 h1{
   font-size: 40PX;
+  font-weight: 700;
 }
 
 body{
