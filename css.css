@@ -7,6 +7,9 @@ h1, h2, .class1{
 
 }
 
+/*
+for ids, we will add '#' in front of it, and for classes, we will add '.' in front of it in our css files
+*/
 .practise{
   color: orange;
 }
