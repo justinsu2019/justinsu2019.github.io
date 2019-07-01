@@ -19,7 +19,7 @@
 # eBay related: 
 ## seller defense: [violation issue](https://sellerdefense.cn/)
 
-## Authentication: ！[work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI)
+## Authentication: ![work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI)
 
 # -----------------------------------------------------------
 #### if you want to have some function you like up online, please let me know I'll see what I can do with it.
