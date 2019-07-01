@@ -16,5 +16,8 @@
 
 # -----------------------------------------------------------
 
+# eBay related: 
+## seller defense: [violation issue](https://sellerdefense.cn/)
+
 # -----------------------------------------------------------
 #### if you want to have some function you like up online, please let me know I'll see what I can do with it.
