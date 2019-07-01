@@ -2,7 +2,7 @@
 
 # FX calculator: [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
-#### Normal calculator: [Calculator](https://justinsu2019.github.io/fx_calculator.html)
+#### Normal calculator: [Calculator]( justinsu2019.github.io/calculator.html)
 
 # -----------------------------------------------------------
 
