@@ -22,6 +22,14 @@
           numresult = eval(str.value);
           str.value = numresult;
         }
+        
+        function onclickFX(nums) {
+          str = document.getElementById("nummessege");
+          str.value = str.value + nums;
+          numresult = eval(str.value);
+          str.value = numresult;
+        }
+        
       </script>
     </head>
     <body bgcolor="affff" >
@@ -48,7 +56,7 @@
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         <td>
-        <input type="button" value="US" id="add" onclick="onclicknum('*6.87*1.05+10')"
+        <input type="button" value="US" id="add" onclick="onclickFX('*6.87*1.05+10')"
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         </tr>
@@ -66,7 +74,7 @@
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         <td>
-        <input type="button" value="DE" id="sub" onclick="onclicknum('*7.85*1.05+10')"
+        <input type="button" value="DE" id="sub" onclick="onclickFX('*7.85*1.05+10')"
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         </tr>
@@ -84,7 +92,7 @@
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         <td>
-        <input type="button" value="UK" id="mul" onclick="onclicknum('*8.8*1.05+10')"
+        <input type="button" value="UK" id="mul" onclick="onclickFX('*8.8*1.05+10')"
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         </tr>
@@ -99,7 +107,7 @@
         </td>
         <td>
         <input type="button" value="AU" id="division"
-        onclick="onclicknum('*4.85*1.05+10')"
+        onclick="onclickFX('*4.85*1.05+10')"
         style="height: 70px; width: 90px; font-size: 35px">
         </td>
         </tr>
