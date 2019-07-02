@@ -10,8 +10,6 @@
 
 # -----------------------------------------------------------
 
-# -----------------------------------------------------------
-
 # linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
 # -----------------------------------------------------------
@@ -24,7 +22,7 @@
 # guitar!!!
 ## [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
-
+# -----------------------------------------------------------
 
 ## Guitar scores:
 ### [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
