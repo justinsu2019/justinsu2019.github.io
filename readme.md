@@ -1,8 +1,10 @@
 # Justin's nest
 
-# FX calculator: [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
+# [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
-#### Normal calculator: [Calculator]( justinsu2019.github.io/calculator.html)
+#### [Normal calculator]( https://justinsu2019.github.io/calculator.html)
+
+# [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
 # -----------------------------------------------------------
 
