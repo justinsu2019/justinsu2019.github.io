@@ -27,9 +27,8 @@
 
 
 
-### Guitar scores:
-### ![Vincent 1](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/jitapu/Vincent.PNG)
-### ![Vincent 2](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/jitapu/Vincent1.PNG)
+## Guitar scores:
+### [Cool Songs~](justinsu2019.github.io/guitar.html ) 
 
 # -----------------------------------------------------------
 
