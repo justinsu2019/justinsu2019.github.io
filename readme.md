@@ -19,6 +19,9 @@
 # -----------------------------------------------------------
 
 # Work:
+
+## [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
+
 ## how to clearly speak: ![how to speak to people](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG)
 
 # -----------------------------------------------------------
