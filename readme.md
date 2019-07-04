@@ -50,8 +50,6 @@
 
 https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=834fd0b000116682&ie=utf-8&rsv_pq=834fd0b000116682&wd=%E9%87%91%E9%92%B1%E7%88%86&rsv_spt=5&rsv_t=cb49WPkvFvoCRPD1A4VwYmaQ9%2FeRdrtJzezd8QFO29jQLYevqAmtLfcGIuo&rsv_bp=1&f=8
 
-[蜡烛图技术书](https://max.book118.com/html/2018/0423/162598264.shtm)
-
 
 # -----------------------------------------------------------
 #### if you want to have some function you like up online, please let me know I'll see what I can do with it. [contact me for anything you need](https://justinsu2019.github.io/email/email_sender.html)
