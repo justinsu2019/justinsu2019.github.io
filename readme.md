@@ -19,7 +19,7 @@
 # -----------------------------------------------------------
 
 # Tech:
-## [urlencode](http://www.jsons.cn/urlencode/)
+## [urlencode](https://1024tools.com/urlencode)
 
 # Work:
 
