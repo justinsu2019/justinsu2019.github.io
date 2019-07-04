@@ -18,6 +18,9 @@
 
 # -----------------------------------------------------------
 
+# Tech:
+## [urlencode](http://www.jsons.cn/urlencode/)
+
 # Work:
 
 ## [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
