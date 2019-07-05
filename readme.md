@@ -2,7 +2,7 @@
 
 # Justin's nest
 
-# [What future may looks like](https://justinsu2019.github.io/future/)
+# [|What future may looks like|](https://justinsu2019.github.io/future/)
 
 # -----------------------------------------------------------
 
