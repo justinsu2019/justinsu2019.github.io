@@ -1,10 +1,16 @@
-# **[contact me for anything you need](https://justinsu2019.github.io/email/email_sender.html)**
+# **[contact me for anything you need in tech/software/IT solution/information needs & etc](https://justinsu2019.github.io/email/email_sender.html)**
 
 # Justin's nest
+
+# [What future may looks like](https://justinsu2019.github.io/future/)
+
+# -----------------------------------------------------------
 
 # [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
 #### [Normal calculator]( https://justinsu2019.github.io/calculator.html)
+
+# -----------------------------------------------------------
 
 # [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
