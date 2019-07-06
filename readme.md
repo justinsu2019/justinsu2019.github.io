@@ -12,6 +12,19 @@
 
 # -----------------------------------------------------------
 
+### [上证指数/SSEC](https://cn.investing.com/indices/shanghai-composite-historical-data)
+### [GDP](http://data.eastmoney.com/cjsj/gdp.html)
+### [CPI](http://data.eastmoney.com/cjsj/cpi.html)
+### [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html)
+### [PMI](http://data.eastmoney.com/cjsj/pmi.html) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。
+### [社会融资统计表](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750282/index.html)
+### [交易结算资金(银证转账)](http://data.eastmoney.com/cjsj/bankTransfer.html)
+### [外商直接投资数据](http://data.eastmoney.com/cjsj/fdi.html)
+
+# -----------------------------------------------------------
+
+# -----------------------------------------------------------
+
 # [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
 # -----------------------------------------------------------
