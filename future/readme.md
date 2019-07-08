@@ -10,7 +10,7 @@
 ### AI寻宠
 ## AI助迪士(disable)
 ## 5G
-## 深入式虚拟现实沟通体验： 全息投影 + 5G + 数据实时交互 = 全息facetime
+## 深入式虚拟现实沟通体验： [全息投影](https://s.taobao.com/search?q=360%E5%BA%A6%E5%B9%BB%E5%BD%B1%E6%88%90%E5%83%8F+%E5%AE%9E%E6%97%B6%E9%80%9A%E8%AE%AF&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20190708&ie=utf8) + 5G + 数据实时交互 = 全息facetime
 
 
 
