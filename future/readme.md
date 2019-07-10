@@ -25,6 +25,7 @@
 # --------------------------------------------------
 # 生物科技 / Biology tech 
 ## Gen - killed HIV
+## password disaster - bio password usage explosive
 
 # --------------------------------------------------
 # 贸易 / Trading
