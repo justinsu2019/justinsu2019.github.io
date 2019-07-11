@@ -42,7 +42,7 @@
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
-* how to clearly speak: ![how to speak to people](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG =400*400)
+* how to clearly speak: ![how to speak to people](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG){:height="400px" width="400px"}
 
 8. guitar!!! ----------------------------------------------
 1 [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
@@ -53,7 +53,7 @@
 9. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
-* Authentication: ![work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI =400*400)
+* Authentication: ![work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI){:height="400px" width="400px"}
 
 
 10. investment -----------------------------------------------------
