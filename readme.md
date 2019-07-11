@@ -22,10 +22,6 @@
  *[股指期货](http://www.cffex.com.cn/)
  *[国债](http://bond.hexun.com/gzdt/)
 
-# -----------------------------------------------------------
-
-# -----------------------------------------------------------
-
 3. Useful tools-------------------------------------------------
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
@@ -34,11 +30,7 @@
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-# -----------------------------------------------------------
-
 4. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
-
-# -----------------------------------------------------------
 
 5. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
@@ -53,14 +45,10 @@
 * how to clearly speak: ![how to speak to people](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG)
 
 8. guitar!!! ----------------------------------------------
-* [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
+1 [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
-# -----------------------------------------------------------
-
-* Guitar scores:
+2 Guitar scores:
 * [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
-
-# -----------------------------------------------------------
 
 9. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
@@ -69,9 +57,9 @@
 
 
 10. investment -----------------------------------------------------
-[Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
+* [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
-https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=834fd0b000116682&ie=utf-8&rsv_pq=834fd0b000116682&wd=%E9%87%91%E9%92%B1%E7%88%86&rsv_spt=5&rsv_t=cb49WPkvFvoCRPD1A4VwYmaQ9%2FeRdrtJzezd8QFO29jQLYevqAmtLfcGIuo&rsv_bp=1&f=8
+* <https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=834fd0b000116682&ie=utf-8&rsv_pq=834fd0b000116682&wd=%E9%87%91%E9%92%B1%E7%88%86&rsv_spt=5&rsv_t=cb49WPkvFvoCRPD1A4VwYmaQ9%2FeRdrtJzezd8QFO29jQLYevqAmtLfcGIuo&rsv_bp=1&f=8>
 
 
 ### from J ---------------------------------------------------
