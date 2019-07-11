@@ -2,9 +2,9 @@
 
 # Justin's nest
 
-# [|What future may looks like|](https://justinsu2019.github.io/future/)
+1. [|What future may looks like|](https://justinsu2019.github.io/future/)
 
-# Economics ------------------------------------------------
+2. Economics ------------------------------------------------
 
 ## [经济合作与发展组织（简称OECD）](https://data.oecd.org/)
 ## [国家统计局](http://www.stats.gov.cn/tjsj/)
@@ -26,7 +26,7 @@
 
 # -----------------------------------------------------------
 
-# Useful tools-------------------------------------------------
+3. Useful tools-------------------------------------------------
 
 # [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -36,23 +36,23 @@
 
 # -----------------------------------------------------------
 
-# Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
+4. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
 
 # -----------------------------------------------------------
 
-# linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
+5. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
-# Tech -------------------------------------------------------
+6. Tech -------------------------------------------------------
 
 ## [urlencode](https://1024tools.com/urlencode)
 
-# Work -----------------------------------------------------
+7. Work -----------------------------------------------------
 
 ## [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 ## how to clearly speak: ![how to speak to people](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG)
 
-# guitar!!! ----------------------------------------------
+8. guitar!!! ----------------------------------------------
 ## [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 # -----------------------------------------------------------
@@ -62,13 +62,13 @@
 
 # -----------------------------------------------------------
 
-# eBay -------------------------------------------------
+9. eBay -------------------------------------------------
 ## seller defense: [violation issue](https://sellerdefense.cn/)
 
 ## Authentication: ![work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI)
 
 
-# investment -----------------------------------------------------
+10. investment -----------------------------------------------------
 [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
 https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&lid=834fd0b000116682&ie=utf-8&rsv_pq=834fd0b000116682&wd=%E9%87%91%E9%92%B1%E7%88%86&rsv_spt=5&rsv_t=cb49WPkvFvoCRPD1A4VwYmaQ9%2FeRdrtJzezd8QFO29jQLYevqAmtLfcGIuo&rsv_bp=1&f=8
