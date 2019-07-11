@@ -22,18 +22,6 @@
  * [股指期货](http://www.cffex.com.cn/)
  * [国债](http://bond.hexun.com/gzdt/)
 
-3. Useful tools-------------------------------------------------
-
-* [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
-
-* [Normal calculator]( https://justinsu2019.github.io/calculator.html)
-
-* [Transfer images into words](https://www.onlineocr.net/zh_hans/)
-
-4. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
-
-5. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
-
 6. Tech -------------------------------------------------------
 
 * [urlencode](https://1024tools.com/urlencode)
@@ -56,6 +44,18 @@
 
 * Authentication: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="400" hegiht="400" align=center />
+
+3. Useful tools-------------------------------------------------
+
+* [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
+
+* [Normal calculator]( https://justinsu2019.github.io/calculator.html)
+
+* [Transfer images into words](https://www.onlineocr.net/zh_hans/)
+
+4. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
+
+5. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
 10. investment -----------------------------------------------------
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
