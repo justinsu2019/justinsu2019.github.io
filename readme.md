@@ -46,10 +46,10 @@
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="400" hegiht="400" align=center />
 
 8. guitar!!! ----------------------------------------------
-1. [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
+* [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
-2. Guitar scores:
-* [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
+* Guitar scores:
+** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
 9. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
