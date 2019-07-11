@@ -22,30 +22,30 @@
  * [股指期货](http://www.cffex.com.cn/)
  * [国债](http://bond.hexun.com/gzdt/)
 
-6. Tech -------------------------------------------------------
+3. Tech -------------------------------------------------------
 
 * [urlencode](https://1024tools.com/urlencode)
 
-7. Work -----------------------------------------------------
+4. Work -----------------------------------------------------
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 * how to clearly speak: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="400" hegiht="400" align=center />
 
-8. guitar!!! ----------------------------------------------
+5. guitar!!! ----------------------------------------------
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
-9. eBay -------------------------------------------------
+6. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
 * Authentication: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="400" hegiht="400" align=center />
 
-3. Useful tools-------------------------------------------------
+7. Useful tools-------------------------------------------------
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -53,9 +53,9 @@
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-4. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
+8. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
 
-5. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
+9. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
 10. investment -----------------------------------------------------
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
