@@ -54,8 +54,8 @@
 9. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
-* Authentication: ![work flow](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI){:height="400px" width="400px"}
-
+* Authentication: 
+<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="400" hegiht="400" align=center />
 
 10. investment -----------------------------------------------------
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
