@@ -1,4 +1,4 @@
-> **if you want to have some function you like up online, please let me know I'll see what I can do with it. [contact me for anything you need](https://justinsu2019.github.io/email/email_sender.html)**
+> **if you want to have some function you like up online, please let me know I'll see what I can do with it. [contact me](https://justinsu2019.github.io/email/email_sender.html)**
 
 # Justin's nest
 
