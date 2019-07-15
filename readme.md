@@ -2,7 +2,7 @@
 
 # Justin's nest
 
-1. [|What future may looks like|](https://justinsu2019.github.io/future/)
+1. [What future may looks like](https://justinsu2019.github.io/future/)
 
 2. Economics ------------------------------------------------
 
