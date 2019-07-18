@@ -9,6 +9,7 @@
  * [经济合作与发展组织（简称OECD）](https://data.oecd.org/)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
  ** [美国国家统计局](https://www.bea.gov/)
+ ** [美国财经网](https://tradingeconomics.com/united-states/gdp)
  * [国家统计局](http://www.stats.gov.cn/tjsj/)
  * [中行：金融市场统计数据：股市成交量，债券统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750288/index.html)
  * [中行：利率，融资统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/index.html)
