@@ -2,31 +2,31 @@
 
 1 how tech is changing the world --------------------------------------------------
 * 百度 - AI - 大数据
-** 智能助手 - 一次唤醒多轮对话，并且可以三方沟通
-** AI字幕"CC"低成本化所有节目 - AI弹幕进行时
-** NLP技术的未来，预测人类将会如何回应，成为家里必备Robot后 - 更深入细致的收集客户习惯，客户喜欢什么，每个不同主人什么时间会下单，会买什么。。
-*** AI客服是必然方向，主要用到的是自然语言处理技术
-** 大数据智能车位泊车，解决停车难问题，甚至可以让AI自动在附近开，不必停车。
-** AI寻人，走失儿童等 - 全视角摄像头 - 硬件设备依然是必须品
-*** AI寻宠
-** AI助迪士(disable)
-** 5G
-** 深入式虚拟现实沟通体验： [全息投影](https://s.taobao.com/search?q=360%E5%BA%A6%E5%B9%BB%E5%BD%B1%E6%88%90%E5%83%8F+%E5%AE%9E%E6%97%B6%E9%80%9A%E8%AE%AF&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20190708&ie=utf8) + 5G + 数据实时交互 = 全息facetime
+* 智能助手 - 一次唤醒多轮对话，并且可以三方沟通
+* AI字幕"CC"低成本化所有节目 - AI弹幕进行时
+* NLP技术的未来，预测人类将会如何回应，成为家里必备Robot后 - 更深入细致的收集客户习惯，客户喜欢什么，每个不同主人什么时间会下单，会买什么。。
+** AI客服是必然方向，主要用到的是自然语言处理技术
+* 大数据智能车位泊车，解决停车难问题，甚至可以让AI自动在附近开，不必停车。
+* AI寻人，走失儿童等 - 全视角摄像头 - 硬件设备依然是必须品
+** AI寻宠
+* AI助迪士(disable)
+* 5G
+* 深入式虚拟现实沟通体验： [全息投影](https://s.taobao.com/search?q=360%E5%BA%A6%E5%B9%BB%E5%BD%B1%E6%88%90%E5%83%8F+%E5%AE%9E%E6%97%B6%E9%80%9A%E8%AE%AF&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20190708&ie=utf8) + 5G + 数据实时交互 = 全息facetime
 
 
 
 
 2 企业运营 / Company Operation --------------------------------------------------
-** suning仓配
-** suning仓配各种机器人 - 从找包裹，到包裹送到快递员车上。
-** wework/upwork的没落是必然，group是需要group的空间，不能把完全不一样的人放在一个地方，总会影响上班效率。
-** 小红书生态官 - 大众评审时代 - 人力成本的合理释放
-** Amazon开设Business prime业务 - 大平台向快递业拓展是必然方向。 如京东快递，蚂蚁物流等。
+* suning仓配
+* suning仓配各种机器人 - 从找包裹，到包裹送到快递员车上。
+* wework/upwork的没落是必然，group是需要group的空间，不能把完全不一样的人放在一个地方，总会影响上班效率。
+* 小红书生态官 - 大众评审时代 - 人力成本的合理释放
+* Amazon开设Business prime业务 - 大平台向快递业拓展是必然方向。 如京东快递，蚂蚁物流等。
 
 
 3 生物科技 / Biology tech  --------------------------------------------------
-** Gen - killed HIV
-** password disaster - bio password usage explosive
+* Gen - killed HIV
+* password disaster - bio password usage explosive
 
 
 
