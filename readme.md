@@ -7,7 +7,6 @@
 2. Economics ------------------------------------------------
 
  * [经济合作与发展组织（简称OECD）](https://data.oecd.org/)
- * <iframe src="https://data.oecd.org/chart/5CDu" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CDu" target="_blank">OECD Chart: Real GDP forecast, Total, Annual growth rate (%), Annual, 2018 – 2020</a></iframe>
  * [国家统计局](http://www.stats.gov.cn/tjsj/)
  * [金融市场统计数据：股市成交量，债券统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750288/index.html)
  * [中国人民银行，利率，融资统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/index.html)
