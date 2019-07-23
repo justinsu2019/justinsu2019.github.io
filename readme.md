@@ -65,7 +65,5 @@
 
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
 
-11 Team laptop
-rita
 
 #### BY J ---------------------------------------------------
