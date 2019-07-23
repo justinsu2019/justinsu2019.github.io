@@ -8,7 +8,7 @@
 
 2. Economics ------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/a%20stock.PNG" width="400" hegiht="400" align=center />
+<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/a%20stock.PNG" width="600" align=center />
 
  * [?? GDP都错的？？经济合作与发展组织（简称OECD）](https://data.oecd.org/)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
@@ -38,7 +38,7 @@
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 * how to clearly speak: 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="400" hegiht="400" align=center />
+<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="600" hegiht="400" align=center />
 
 5. guitar!!! ----------------------------------------------
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
@@ -50,7 +50,7 @@
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
 * Authentication: 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="400" hegiht="400" align=center />
+<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="600" hegiht="400" align=center />
 
 7. Useful tools-------------------------------------------------
 
