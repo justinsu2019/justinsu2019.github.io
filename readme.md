@@ -4,8 +4,9 @@
 
 1. [What future may looks like](https://justinsu2019.github.io/future/)
 
-2. Economics ------------------------------------------------
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/a%20stock.PNG" width="400" hegiht="400" align=center />
+
+2. Economics ------------------------------------------------
  * [?? GDP都错的？？经济合作与发展组织（简称OECD）](https://data.oecd.org/)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
  ** [美国国家统计局](https://www.bea.gov/)
