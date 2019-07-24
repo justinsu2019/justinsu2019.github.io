@@ -51,6 +51,9 @@
 提到隐私，Jsaying：隐私是应该被更好的了解，从而可以被更好的定制化服务的资源。
 * 麦当劳的露骨通知反而被广大接受，说明社会的价值观更趋于接受坦诚和直白甚至粗俗的话，更本质的话。
 
+* 如图，由于AI的发展就业情况可能会更差：
+<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee.PNG" width="600" align=center />
+
 
 
 # --------------------------------------------------
