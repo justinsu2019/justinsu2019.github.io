@@ -31,6 +31,7 @@
  * [财新PMI 原版](http://pmi.caixin.com/)
  * [外商直接投资数据](http://data.eastmoney.com/cjsj/fdi.html)
  * [股指期货](http://www.cffex.com.cn/)
+ * [主要国家的利率](http://data.eastmoney.com/cjsj/globalRate.html)
 
 3. Tech -------------------------------------------------------
 
