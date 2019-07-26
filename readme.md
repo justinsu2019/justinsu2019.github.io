@@ -35,6 +35,7 @@
  * [股指期货](http://www.cffex.com.cn/)
  * [主要国家的利率](http://data.eastmoney.com/cjsj/globalRate.html)
  * [两融](http://data.eastmoney.com/rzrq/sh.html)
+ * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 
 3. Tech -------------------------------------------------------
 
