@@ -3,6 +3,7 @@
 # Justin's nest
 
 1. [What future may looks like](https://justinsu2019.github.io/future/)
+2. 国情：
 中国人口结构：
 * 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，房价猛跌的概率不高
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变的情况那么每年6%的补给远远高于死亡的老人数量，那么房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
@@ -12,7 +13,7 @@
 * [截至2017年，大专及以上学历人口只有14%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/education.PNG)
 
 
-2. Economics ------------------------------------------------
+3. Economics ------------------------------------------------
 
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
 
@@ -43,30 +44,30 @@
  * [两融](http://data.eastmoney.com/rzrq/sh.html)
  * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 
-3. Tech -------------------------------------------------------
+4. Tech -------------------------------------------------------
 
 * [urlencode](https://1024tools.com/urlencode)
 
-4. Work -----------------------------------------------------
+5. Work -----------------------------------------------------
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 * how to clearly speak: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="600" hegiht="400" align=center />
 
-5. guitar!!! ----------------------------------------------
+6. guitar!!! ----------------------------------------------
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
-6. eBay -------------------------------------------------
+7. eBay -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
 * Authentication: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="600" hegiht="400" align=center />
 
-7. Useful tools-------------------------------------------------
+8. Useful tools-------------------------------------------------
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -74,11 +75,11 @@
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-8. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
+9. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
 
-9. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
+10. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
-10. investment -----------------------------------------------------
+11. investment -----------------------------------------------------
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
