@@ -11,6 +11,11 @@
 * 适龄未婚比例只有19%不到，男性11%，女性8%不到，统计的比例是不是太低了。。。？ 婚庆市场是否需要担忧，不拉高单价无法存活
 * [第一个孩子超过30岁的占比只有不到20%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/1st%20Kid.PNG)
 * [截至2017年，大专及以上学历人口只有14%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/education.PNG)
+* [三大产业结构](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E4%B8%89%E5%A4%A7%E4%BA%A7%E4%B8%9A%E7%BB%93%E6%9E%84%20v1.PNG)
+* [就业结构占比](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E5%B0%B1%E4%B8%9A%E7%BB%93%E6%9E%84.PNG)
+  [就业结构 - 按行业分](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E8%A1%8C%E4%B8%9A%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%8F%A3%E5%8D%A0%E6%AF%94.PNG)
+* [平均工资vs人均GDP](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84vs%E4%BA%BA%E5%9D%87GDP.PNG)
+
 
 
 3. Economics ------------------------------------------------
