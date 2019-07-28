@@ -2,8 +2,8 @@
 
 # Justin's nest
 
-1. [What future may looks like](https://justinsu2019.github.io/future/)
-2. 国情：
+1. [What future may looks like](https://justinsu2019.github.io/future/) ------------------------------------------------
+2. 国情： ------------------------------------------------
 中国人口结构：
 * 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，中心城市房价猛跌的概率不高
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变的情况那么每年6%的补给远远高于死亡的老人数量，那么房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
