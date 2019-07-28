@@ -14,9 +14,9 @@
 
 2. Economics ------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG" width="600" align=center />
+* [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG" width="600" align=center/>
+* [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年这次，历史重演但基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
 
 
  * [?? GDP都错的？？经济合作与发展组织（简称OECD）](https://data.oecd.org/)
