@@ -9,7 +9,7 @@
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变的情况那么每年6%的补给远远高于死亡的老人数量，那么房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
 * 35岁以上的人口占55%，很快我就要步入大多数的行列...
 * 适龄未婚比例只有19%不到，男性11%，女性8%不到，统计的比例是不是太低了。。。？ 婚庆市场是否需要担忧，不拉高单价无法存活
-* [第一个孩子超过30岁的占比只有不到20%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/1st%20Kid.PNG)
+* [超过30岁才有第一个孩子的占比只有不到20%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/1st%20Kid.PNG)
 * [截至2017年，大专及以上学历人口只有14%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/education.PNG)
 * [三大产业结构](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E4%B8%89%E5%A4%A7%E4%BA%A7%E4%B8%9A%E7%BB%93%E6%9E%84%20v1.PNG)
 * [就业结构占比](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E5%B0%B1%E4%B8%9A%E7%BB%93%E6%9E%84.PNG)
