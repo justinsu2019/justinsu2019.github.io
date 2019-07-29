@@ -49,6 +49,11 @@
  * [两融](http://data.eastmoney.com/rzrq/sh.html)
  * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 
+* 国际:
+* [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
+* [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
+* [联合国环境署](https://www.unenvironment.org/environment-you)
+
 4. Tech -------------------------------------------------------
 
 * [urlencode](https://1024tools.com/urlencode)
