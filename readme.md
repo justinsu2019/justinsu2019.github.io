@@ -41,7 +41,7 @@
    [M1&M2 Charts](http://value500.com/M1.asp)
  * [CFETS - 人民币对一揽子货币指数](http://www.chinamoney.com.cn/english/bmkrrtrrt/)
  * [人民币对USD汇率](http://www.chinamoney.com.cn/english/) 
- * [PMI](http://data.eastmoney.com/cjsj/pmi.html) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。
+ * [PMI](http://data.stats.gov.cn/search.htm?s=PMI) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。
  * [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
  * [财新PMI 原版](http://pmi.caixin.com/)
  * [外商直接投资数据](http://data.eastmoney.com/cjsj/fdi.html)
