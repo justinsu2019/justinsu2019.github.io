@@ -104,7 +104,11 @@
   [财经日历](https://www.dailyfxasia.com/calendar)
 
 ** 数据：
-1. [CPI](http://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010301&sj=201906) [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) [PMI](http://data.eastmoney.com/cjsj/pmi.html) [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)  --  发动机 
+1. [CPI 国家统计局](http://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010301&sj=201906) 
+[M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) 
+[PMI 国家统计局](http://data.stats.gov.cn/search.htm?s=PMI)
+[PMI 二手 更快](http://data.eastmoney.com/cjsj/pmi.html) 
+[财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
 2. 库存周期 / 新订单指数和库存指数
 3. [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
 4. [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
@@ -113,18 +117,15 @@
 7. [贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98)
 8. 花旗经济意外指数 ？？
 
-** 行情：
+** 行情(偏技术面)：
 9. 板块： 一产农林牧渔；二产制造业；三产服务业及其他产业. 
 * [资金流向](http://data.eastmoney.com/bkzj/hy.html)
 * [概念板块 资金流向](http://data.eastmoney.com/bkzj/gn.html)
-* 观察10日/5日/当日热门，是否有重叠，重叠的部分是否有上升态势。
 * 是否有齐头量
 
 10. 个股基本面，业绩情况近期新闻 
 
 11. 个股， 融资融券量
-
-
 
 
 #### BY J ---------------------------------------------------
