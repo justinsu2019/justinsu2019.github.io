@@ -5,7 +5,7 @@
 1. [What future may looks like](https://justinsu2019.github.io/future/) ------------------------------------------------
 2. 国情： ------------------------------------------------
 中国人口结构：
-* 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，中心城市房价猛跌的概率不高
+* 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，片面的从人口需求情况来说，中心城市房价猛跌的概率不高
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变的情况那么每年6%的补给远远高于死亡的老人数量，那么房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
 * 35岁以上的人口占55%，很快我就要步入大多数的行列...
 * 适龄未婚比例只有19%不到，男性11%，女性8%不到，统计的比例是不是太低了。。。？ 婚庆市场是否需要担忧，不拉高单价无法存活
@@ -25,11 +25,11 @@
 * [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年这次，历史重演但基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
 
  * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
- * [?? GDP都错的？？经济合作与发展组织（简称OECD）](https://data.oecd.org/)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
  ** [美国国家统计局](https://www.bea.gov/)
  ** [美国财经网](https://tradingeconomics.com/united-states/gdp)
  * [国家统计局](http://www.stats.gov.cn/tjsj/)
+ * [黄金储备](http://m.safe.gov.cn/safe/whcb/index.html)
  * [中行：金融市场统计数据：股市成交量，债券统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750288/index.html)
  * [中行：利率，融资统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/index.html)
  * [上证指数/SSEC](https://cn.investing.com/indices/shanghai-composite-historical-data)
