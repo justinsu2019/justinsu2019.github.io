@@ -98,30 +98,30 @@
 
 
 * daily workflow:
-1 新闻 [第一财经](https://www.yicai.com/)
+1. 新闻 [第一财经](https://www.yicai.com/)
   [中证网](http://www.cs.com.cn/)
   [财经日历](https://www.dailyfxasia.com/calendar)
 
-2 数据：
-1 [CPI](http://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010301&sj=201906) [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) [PMI](http://data.eastmoney.com/cjsj/pmi.html) [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)  --  发动机 
-2 库存周期 / 新订单指数和库存指数
-3 [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
-4 [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
-5 [国债](http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0L09&sj=2018) / 资产负债表 --  汽油
-6 [杠杆](http://data.eastmoney.com/rzrq/sh.html) -- 融资余额/GDP -- 两融标的(2%以下是极限)
-7 [贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98)
-8 花旗经济意外指数 ？？
+2. 数据：
+1. [CPI](http://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010301&sj=201906) [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) [PMI](http://data.eastmoney.com/cjsj/pmi.html) [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)  --  发动机 
+2. 库存周期 / 新订单指数和库存指数
+3. [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
+4. [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
+5. [国债](http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0L09&sj=2018) / 资产负债表 --  汽油
+6. [杠杆](http://data.eastmoney.com/rzrq/sh.html) -- 融资余额/GDP -- 两融标的(2%以下是极限)
+7. [贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98)
+8. 花旗经济意外指数 ？？
 
 行情：
-9 板块： 一产农林牧渔；二产制造业；三产服务业及其他产业. 
+9. 板块： 一产农林牧渔；二产制造业；三产服务业及其他产业. 
 * [资金流向](http://data.eastmoney.com/bkzj/hy.html)
 * [概念板块 资金流向](http://data.eastmoney.com/bkzj/gn.html)
 * 观察10日/5日/当日热门，是否有重叠，重叠的部分是否有上升态势。
 * 是否有齐头量
 
-10 个股基本面，业绩情况近期新闻 
+10. 个股基本面，业绩情况近期新闻 
 
-11 个股， 融资融券量
+11. 个股， 融资融券量
 
 
 
