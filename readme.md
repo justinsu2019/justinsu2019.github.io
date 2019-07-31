@@ -24,7 +24,7 @@
 
 * [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年这次，历史重演但基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
 
-
+ * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
  * [?? GDP都错的？？经济合作与发展组织（简称OECD）](https://data.oecd.org/)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
  ** [美国国家统计局](https://www.bea.gov/)
