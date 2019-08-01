@@ -111,7 +111,7 @@ suggested sharing:
 
 ------------------------------------------------------------------------------------------------------
 
-* economic get-to-know workflow：
+* Economic Get-To-Know Workflow：
 *
 ** 新闻 [第一财经](https://www.yicai.com/)
   [中证网](http://www.cs.com.cn/)
