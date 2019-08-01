@@ -122,6 +122,7 @@
 * [资金流向](http://data.eastmoney.com/bkzj/hy.html)
 * [概念板块 资金流向](http://data.eastmoney.com/bkzj/gn.html)
 * 是否有齐头量
+* 风险是多少
 
 10. 个股基本面，业绩情况近期新闻 
 
