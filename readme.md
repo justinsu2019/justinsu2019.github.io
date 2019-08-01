@@ -2,29 +2,16 @@
 
 # Justin's nest
 
-1. [What future may looks like](#1)
-2. [国情](#2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [What future may looks like](#1)
+* [国情](#2)
+* [经济数据] (#3)
+* [Tech](#4)
+* [Work](#5)
+* [guitar](#6)
+* [eBay](#7)
+* [Useful tools](#8)
+* [linkedIn page](#9)
+* [investment](#10)
 
 
 
@@ -47,7 +34,7 @@
 
 
 
-3. Economics ------------------------------------------------
+3. <h3 id="3">Economics</h3> ------------------------------------------------
 
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
 
@@ -85,30 +72,27 @@
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
-4. Tech -------------------------------------------------------
+4. <h3 id="4">Tech</h3> -------------------------------------------------------
 
 * [urlencode](https://1024tools.com/urlencode)
 
-5. Work -----------------------------------------------------
+5. <h3 id="5">Work</h3> -----------------------------------------------------
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 * how to clearly speak: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="600" hegiht="400" align=center />
 
-6. guitar!!! ----------------------------------------------
+6. <h3 id="6">guitar!!!</h3> ----------------------------------------------
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
-7. eBay -------------------------------------------------
+7. <h3 id="7">eBay</h3>  -------------------------------------------------
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
-* Authentication: 
-<img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Authentication.png?token=ALMIXUGBDRW4ZLOV42LU37S5DG7DI" width="600" hegiht="400" align=center />
-
-8. Useful tools-------------------------------------------------
+8. <h3 id="8">Useful tools</h3> -------------------------------------------------
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -116,11 +100,9 @@
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-9. Testing webpage: [hit me~](https://justinsu2019.github.io/homepage.html) 
+9. <h3 id="9">linkedIn page</h3> : [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
 
-10. linkedIn page: [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
-
-11. investment -----------------------------------------------------
+10. <h3 id="10">investment</h3> investment -----------------------------------------------------
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
