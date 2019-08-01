@@ -2,8 +2,8 @@
 
 # Justin's nest
 
-1 [What future may looks like](#1)
-2 [国情](#2)
+1. [What future may looks like](#1)
+2. [国情](#2)
 
 
 
