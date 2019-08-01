@@ -109,7 +109,7 @@
 [PMI 国家统计局](http://data.stats.gov.cn/search.htm?s=PMI)
 [PMI 二手 更快](http://data.eastmoney.com/cjsj/pmi.html) 
 [财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
-2. 库存周期 / 新订单指数和库存指数
+2. 库存周期：
 ![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
 根据7月份的PMI指数，现在库存周期正处于主动加库存阶段。
 
