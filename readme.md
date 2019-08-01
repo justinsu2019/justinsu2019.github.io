@@ -4,7 +4,7 @@
 
 * [What future may looks like](#1)
 * [国情](#2)
-* [经济数据] (#3)
+* [经济数据](#3)
 * [Tech](#4)
 * [Work](#5)
 * [guitar](#6)
