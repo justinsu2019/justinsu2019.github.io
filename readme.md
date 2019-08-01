@@ -49,6 +49,7 @@
  * [主要国家的利率](http://data.eastmoney.com/cjsj/globalRate.html)
  * [两融](http://data.eastmoney.com/rzrq/sh.html)
  * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
+* NEW: [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。
 
 * 国际:
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
