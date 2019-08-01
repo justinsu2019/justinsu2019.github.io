@@ -2,6 +2,7 @@
 
 # Justin's nest
 
+* Here we have:
 * [What future may looks like](#1)
 * [国情](#2)
 * [经济数据](#3)
@@ -100,9 +101,9 @@
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-9. <h3 id="9">linkedIn page</h3> : [linkedIn me~](https://www.linkedin.com/in/justin-su-a036a8188/) 
+9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
-10. <h3 id="10">investment</h3> investment -----------------------------------------------------
+10. <h3 id="10">investment</h3> -----------------------------------------------------
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
