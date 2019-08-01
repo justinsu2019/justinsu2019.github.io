@@ -106,13 +106,11 @@ Here we have:
 10. <h3 id="10">investment</h3>
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
-
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
 
 ------------------------------------------------------------------------------------------------------
 
 * Economic Get-To-Know Workflow：
-*
 ** 新闻 [第一财经](https://www.yicai.com/)
   [中证网](http://www.cs.com.cn/)
   [财经日历](https://www.dailyfxasia.com/calendar)
