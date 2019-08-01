@@ -2,7 +2,7 @@
 
 # Justin's nest
 
-* Here we have:
+Here we have:
 * [What future may looks like](#1)
 * [国情](#2)
 * [经济数据](#3)
