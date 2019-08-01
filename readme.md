@@ -15,12 +15,12 @@ Here we have:
 * [investment](#10)
 
 
+------------------------------------------------------------------------------------------------------
 
 
 
-
-1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> ------------------------------------------------</h3>
-2. <h3 id="2">国情： ------------------------------------------------</h3>
+1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> </h3>
+2. <h3 id="2">国情：</h3>
 中国人口结构：
 * 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，片面的从人口需求情况来说，中心城市房价猛跌的概率不高
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变，年龄结构也不变的情况那么每年的新生儿的量高于死亡的老人数量，那么核心城市房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
@@ -35,7 +35,7 @@ Here we have:
 
 
 
-3. <h3 id="3">Economics</h3> ------------------------------------------------
+3. <h3 id="3">Economics</h3>
 
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
 
@@ -73,11 +73,11 @@ Here we have:
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
-4. <h3 id="4">Tech</h3> -------------------------------------------------------
+4. <h3 id="4">Tech</h3>
 
 * [urlencode](https://1024tools.com/urlencode)
 
-5. <h3 id="5">Work</h3> -----------------------------------------------------
+5. <h3 id="5">Work</h3>
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
