@@ -110,6 +110,9 @@
 [PMI 二手 更快](http://data.eastmoney.com/cjsj/pmi.html) 
 [财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
 2. 库存周期 / 新订单指数和库存指数
+![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
+根据7月份的PMI指数，现在库存周期正处于主动加库存阶段。
+
 3. [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
 4. [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
 5. [国债](http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0L09&sj=2018) / 资产负债表 --  汽油
@@ -128,5 +131,6 @@
 
 11. 个股， 融资融券量
 
+12. 
 
 #### BY J ---------------------------------------------------
