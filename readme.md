@@ -84,16 +84,16 @@ Here we have:
 * how to clearly speak: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="600" hegiht="400" align=center />
 
-6. <h3 id="6">guitar!!!</h3> ----------------------------------------------
+6. <h3 id="6">guitar!!!</h3>
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
-7. <h3 id="7">eBay</h3>  -------------------------------------------------
+7. <h3 id="7">eBay</h3>
 * seller defense: [violation issue](https://sellerdefense.cn/)
 
-8. <h3 id="8">Useful tools</h3> -------------------------------------------------
+8. <h3 id="8">Useful tools</h3>
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -103,15 +103,15 @@ Here we have:
 
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
-10. <h3 id="10">investment</h3> -----------------------------------------------------
+10. <h3 id="10">investment</h3>
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
 
+------------------------------------------------------------------------------------------------------
 
-
-* economic get-to-know workflow ----------------------------------------------------- ：
+* economic get-to-know workflow：
 *
 ** 新闻 [第一财经](https://www.yicai.com/)
   [中证网](http://www.cs.com.cn/)
