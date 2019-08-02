@@ -20,8 +20,8 @@ Here we have:
 1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> </h3>
 2. <h3 id="2">国情：</h3>
 
-[中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E6%88%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
-从上图可以看到，商品住宅销售面积/新开工面积/竣工面积在最近两年都明显走下滑态势。具体下滑情况要看近两年详图：[中国商品住宅近两年的趋势](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E6%88%BF%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%83%85%E5%86%B5.PNG)
+[中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%8A%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
+从上图可以看到，商品住宅销售面积/新开工面积/竣工面积在最近两年都明显走下滑态势。具体下滑情况要看近两年详图：[中国商品住宅近两年的趋势](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%83%85%E5%86%B5.PNG)
 从上图可以看到，竣工面积已经明显在走低了，但是新开工施工面积，仍然超过销售面积，也就意味着商品住宅的供给还没有到转折点，存量（库存）依然在增加； 从新开工施工面积的第二波明显下降，说明房企已经在去库存，而房价还没有明显下降，也就是刚刚进入主动去库存周期。 从趋势来看：新施工和销售面积的降速明显超过竣工面积，其中销售面积降速更快，所以依然需要调控继续降低新施工面积的增速。当下的销售面积大约是竣工面积的3倍左右。是否当销售额低于竣工数时房地产才会有崩盘的情况，需要看历史上日本等国的房地产崩盘数据。再做了解。
 
 
