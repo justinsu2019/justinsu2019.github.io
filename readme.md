@@ -22,10 +22,10 @@ Here we have:
 1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> </h3>
 2. <h3 id="2">国情：</h3>
 中国人口结构：
-* 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，片面的从人口需求情况来说，中心城市房价猛跌的概率不高
+* 中国人口自然增长率(‰) = 3.81>0 人只会越来越多，片面的从人口需求情况来说，需求不减，中心城市的房屋供给量不猛增的情况下，房价大跌的概率不高
 * [截至2015年人的平均寿命为76.34，截至2017年，76岁以上的人口只占总人口数4%，10年内达到74岁的人口占7%，共计11%，而0-4和5-9岁的人数均为6%一共12%，如果按增速不变，年龄结构也不变的情况那么每年的新生儿的量高于死亡的老人数量，那么核心城市房价不会跌](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/age.PNG)
-* 35岁以上的人口占55%，很快我就要步入大多数的行列...
-* 适龄未婚比例只有19%不到，男性11%，女性8%不到，统计的比例是不是太低了。。。？ 婚庆市场是否需要担忧，不拉高单价无法存活
+* 35岁以上的人口占55%...
+* 适龄未婚比例只有19%不到，男性11%，女性8%不到，统计的比例是不是太低了。。。？ 
 * [超过30岁才有第一个孩子的占比只有不到20%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/1st%20Kid.PNG)
 * [截至2017年，大专及以上学历人口只有14%](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/education.PNG)
 * [三大产业结构](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E4%B8%89%E5%A4%A7%E4%BA%A7%E4%B8%9A%E7%BB%93%E6%9E%84%20v1.PNG)
@@ -38,7 +38,7 @@ Here we have:
 3. <h3 id="3">Economics</h3>
 
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
-* [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年这次，历史重演但基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
+* [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年以后，历史重演时但会基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
  * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
  ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
  ** [美国国家统计局](https://www.bea.gov/)
@@ -72,15 +72,22 @@ Here we have:
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
 4. <h3 id="4">Tech</h3>
-
+* [DNN works for every excel database](https://github.com/justinsu2019/ML/tree/master/DNN%20works%20in%20everywhere/with%20TF)
 * [urlencode](https://1024tools.com/urlencode)
-
+* [image recognition](https://github.com/justinsu2019/ML/tree/master/Image%20recogination)
+* [send/receive email without server(with online server)](https://github.com/justinsu2019/learn-to-send-email-via-google-script-html-no-server)
+* [NLP - lemmatization](https://github.com/justinsu2019/NLP/blob/master/lemmatization(%E8%AF%8D%E6%80%A7%E8%BF%98%E5%8E%9F).py)
 5. <h3 id="5">Work</h3>
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
 * how to clearly speak: 
 <img src="https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/work%26study/4%20steps%20to%20make%20sure.PNG" width="600" hegiht="400" align=center />
+
+* how to work:
+** list out every step to complete a work regardless how hard it is
+** for hard steps, try to bit them into easier combined ones
+** start steps 1 by 1 and learn the hard tech things till it's enough to kill the job.
 
 6. <h3 id="6">guitar!!!</h3>
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
@@ -90,7 +97,7 @@ Here we have:
 
 7. <h3 id="7">eBay</h3>
 * seller defense: [violation issue](https://sellerdefense.cn/)
-
+* [外贸大学](https://university.ebay.cn/)
 8. <h3 id="8">Useful tools</h3>
 
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
