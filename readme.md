@@ -109,11 +109,13 @@ suggested sharing:
 ------------------------------------------------------------------------------------------------------
 
 * Economic Get-To-Know Workflow：
+
 1 新闻 [第一财经](https://www.yicai.com/)
   [中证网](http://www.cs.com.cn/)
   [财经日历](https://www.dailyfxasia.com/calendar)
 
 ** 数据：
+
 2. [CPI 国家统计局](http://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010301&sj=201906) 
 [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) 
 [PMI 国家统计局](http://data.stats.gov.cn/search.htm?s=PMI)
@@ -121,6 +123,7 @@ suggested sharing:
 [财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
 3. 库存周期：
 ![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
+
 根据7月份的PMI指数，现在库存周期正处于主动加库存阶段。
 
 4. [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
