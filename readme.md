@@ -119,7 +119,9 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
 10.<h3 id="10">Political</h3>
-trump需要选举赢，就需要创造一个动荡的情况，美元下降就会让外债压力更低，本金是不会还的，长期的情况是借新还旧。所以黄金必然会涨
+* trump需要选举赢，就需要创造一个动荡的情况，美元下降就会让外债压力更低，本金是不会还的，长期的情况是借新还旧。所以黄金必然会涨
+* 韩国和日本的贸易战，表明美国的影响力在滑坡，已经无暇自顾自然无法继续对其他国家的控制。
+* [美国债务表](https://www.usdebtclock.org/)
 
 11. <h3 id="11">investment</h3>
 suggested sharing:
