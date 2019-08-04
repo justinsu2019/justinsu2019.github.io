@@ -76,11 +76,16 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
  * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 * NEW: [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。
 
+* 美国：
+* [PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
+* [美国债务表](https://www.usdebtclock.org/)
+* [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
+
 * 国际:
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
-* [美国债务表](https://www.usdebtclock.org/)
+
 
 4. <h3 id="4">Tech</h3>
 * [DNN works for every excel database](https://github.com/justinsu2019/ML/tree/master/DNN%20works%20in%20everywhere/with%20TF)
