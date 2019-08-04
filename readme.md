@@ -12,7 +12,8 @@ Here we have:
 * [eBay](#7)
 * [Useful tools](#8)
 * [linkedIn page](#9)
-* [investment](#10)
+* [Political](#10)
+* [investment](#11)
 
 
 ------------------------------------------------------------------------------------------------------
@@ -117,7 +118,10 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
-10. <h3 id="10">investment</h3>
+10.<h3 id="10">Political</h3>
+trump需要选举赢，就需要创造一个动荡的情况，美元下降就会让外债压力更低，本金是不会还的，长期的情况是借新还旧。所以黄金必然会涨
+
+11. <h3 id="11">investment</h3>
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
