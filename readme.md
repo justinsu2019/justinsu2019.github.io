@@ -44,7 +44,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [平均工资vs人均GDP： 人均工资 > 人均GDP， 说明依然是政府补贴型社会，还可以再强](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/population/%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84vs%E4%BA%BA%E5%9D%87GDP.PNG)
 
 中国资源：
-* 稀土储量占全球42.3%（美国统计局数据），[稀土行业详情](http://baike.asianmetal.cn/metal/re/resources&production.shtml)
+* 稀土储量5500万吨占全球13000万吨的42.3%（美国统计局数据），[稀土行业详情](http://baike.asianmetal.cn/metal/re/resources&production.shtml)。
+* 2009年，中国稀土氧化物产量为12万吨，占全球产量的97%。作为世界稀土资源主要供应源，我国稀土资源储量逐年减少，为了遏制国内稀土不顾市场需求的盲目开采，从2007年起国家开始对稀土开采总量和各企业的生产指标实行"指令性计划"。
 
 
 3. <h3 id="3">Economics</h3>
