@@ -157,7 +157,7 @@ suggested sharing:
 3- 库存周期：
 ![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
 
-根据7月份的PMI指数，现在库存周期正处于主动加库存阶段。
+根据7月份的PMI指数，整体PMI好转但仍未超过50，表示现在库存周期正处于被动去库存转向主动加库存的过程中。尚未有力证明经济就能马上好转。
 
 4- [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
 5- [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
