@@ -18,10 +18,10 @@ Here we have:
 * [现状](#13)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
-1. <h4 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a></h4>
+1.<h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a></h3>
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
-2. <h3 id="2">国情：</h3>
+2.<h3 id="2">国情：</h3>
 
 中国房市：
 
@@ -49,8 +49,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * 稀土储量5500万吨占全球13000万吨的42.3%（美国统计局数据），[稀土行业详情](http://baike.asianmetal.cn/metal/re/resources&production.shtml)。
 * 2009年，中国稀土氧化物产量为12万吨，占全球产量的97%。作为世界稀土资源主要供应源，我国稀土资源储量逐年减少，为了遏制国内稀土不顾市场需求的盲目开采，从2007年起国家开始对稀土开采总量和各企业的生产指标实行"指令性计划"。
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-3. <h3 id="3">Economics</h3>
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
+3.<h3 id="3">Economics</h3>
 * [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
 * [各国国债](https://cn.investing.com/rates-bonds/world-government-bonds)
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
