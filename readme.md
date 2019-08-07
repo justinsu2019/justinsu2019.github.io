@@ -17,7 +17,7 @@ Here we have:
 * [一句话经济学](#12)
 * [现状](#13)
 
-
+![](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
 ------------------------------------------------------------------------------------------------------
 
 1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> </h3>
