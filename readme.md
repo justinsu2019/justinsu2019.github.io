@@ -250,5 +250,6 @@ suggested sharing:
 
 * [What trump quit for these years](https://github.com/justinsu2019/justinsu2019.github.io/blob/master/economics/Topic/Trumpquits.md)
 
+* [外国舆论](https://edition.cnn.com/)
 
 #### BY J ---------------------------------------------------
