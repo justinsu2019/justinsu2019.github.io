@@ -176,8 +176,10 @@ suggested sharing:
 * 是否有齐头量
 * 风险是多少
 
-11- 个股基本面，业绩情况近期新闻 
+11- 个股基本面，业绩情况近期新闻  
 
+12 - [外汇报价](https://www.dailyfxasia.com/forex-rates)
+[自选股](http://quote.eastmoney.com/favor/default.html)
  
 
 12. <h3 id="12">一句话经济学</h3>
