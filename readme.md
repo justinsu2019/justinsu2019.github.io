@@ -248,7 +248,7 @@ suggested sharing:
 
 * 黄金超越5年低点盘整，正式确认向上突破，距离重要阻力位1525-1550已经非常接近。
 
-
+* [What trump quit for these years](https://github.com/justinsu2019/justinsu2019.github.io/blob/master/economics/Topic/Trumpquits.md)
 
 
 #### BY J ---------------------------------------------------
