@@ -18,10 +18,10 @@ Here we have:
 * [现状](#13)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
-1.<h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a></h3>
+1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a></h3>
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
-2.<h3 id="2">国情：</h3>
+2. <h3 id="2">国情：</h3>
 
 中国房市：
 
@@ -50,7 +50,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * 2009年，中国稀土氧化物产量为12万吨，占全球产量的97%。作为世界稀土资源主要供应源，我国稀土资源储量逐年减少，为了遏制国内稀土不顾市场需求的盲目开采，从2007年起国家开始对稀土开采总量和各企业的生产指标实行"指令性计划"。
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
-3.<h3 id="3">Economics</h3>
+3. <h3 id="3">Economics</h3>
 * [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
 * [各国国债](https://cn.investing.com/rates-bonds/world-government-bonds)
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
@@ -93,7 +93,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 4. <h3 id="4">Tech</h3>
 * [DNN works for every excel database](https://github.com/justinsu2019/ML/tree/master/DNN%20works%20in%20everywhere/with%20TF)
 * [urlencode](https://1024tools.com/urlencode)
@@ -102,7 +102,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [NLP - lemmatization](https://github.com/justinsu2019/NLP/blob/master/lemmatization(%E8%AF%8D%E6%80%A7%E8%BF%98%E5%8E%9F).py)
 * [website design template](https://www.formstack.com/online-forms)
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 5. <h3 id="5">Work</h3>
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
@@ -115,19 +115,19 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ** for hard steps, try to bit them into easier combined ones
 ** start steps 1 by 1 and learn the hard tech things till it's enough to kill the job.
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 6. <h3 id="6">guitar!!!</h3>
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 7. <h3 id="7">eBay</h3>
 * seller defense: [violation issue](https://sellerdefense.cn/)
 * [外贸大学](https://university.ebay.cn/)
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 8. <h3 id="8">Useful tools</h3>
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
@@ -135,7 +135,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
-![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
+![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
