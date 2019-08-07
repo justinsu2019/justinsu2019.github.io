@@ -18,11 +18,9 @@ Here we have:
 * [现状](#13)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 1. <h3 id="1"><a href="https://justinsu2019.github.io/future/">What future may looks like</a> </h3>
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 2. <h3 id="2">国情：</h3>
 
 中国房市：
@@ -52,7 +50,6 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * 2009年，中国稀土氧化物产量为12万吨，占全球产量的97%。作为世界稀土资源主要供应源，我国稀土资源储量逐年减少，为了遏制国内稀土不顾市场需求的盲目开采，从2007年起国家开始对稀土开采总量和各企业的生产指标实行"指令性计划"。
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 3. <h3 id="3">Economics</h3>
 * [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
 * [各国国债](https://cn.investing.com/rates-bonds/world-government-bonds)
@@ -97,7 +94,6 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 4. <h3 id="4">Tech</h3>
 * [DNN works for every excel database](https://github.com/justinsu2019/ML/tree/master/DNN%20works%20in%20everywhere/with%20TF)
 * [urlencode](https://1024tools.com/urlencode)
@@ -107,7 +103,6 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [website design template](https://www.formstack.com/online-forms)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 5. <h3 id="5">Work</h3>
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
@@ -121,7 +116,6 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ** start steps 1 by 1 and learn the hard tech things till it's enough to kill the job.
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 6. <h3 id="6">guitar!!!</h3>
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
@@ -129,15 +123,12 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ** [Cool Songs~](https://justinsu2019.github.io/Guitar.html) 
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 7. <h3 id="7">eBay</h3>
 * seller defense: [violation issue](https://sellerdefense.cn/)
 * [外贸大学](https://university.ebay.cn/)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 8. <h3 id="8">Useful tools</h3>
-
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
 * [Normal calculator]( https://justinsu2019.github.io/calculator.html)
@@ -145,18 +136,15 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [Transfer images into words](https://www.onlineocr.net/zh_hans/)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 10. <h3 id="10">Political</h3>
 * trump需要选举赢，就需要创造一个动荡的情况，美元下降就会让外债压力更低，本金是不会还的，长期的情况是借新还旧。所以黄金必然会涨, 但是没到还债的时间就不会这么早下跌.
 * 韩国和日本的贸易战，表明美国的影响力在滑坡，已经无暇自顾自然无法继续对其他国家的控制。
 * [美国债务表](https://www.usdebtclock.org/)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 11. <h3 id="11">investment</h3>
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
@@ -203,7 +191,6 @@ suggested sharing:
 [自选股](http://quote.eastmoney.com/favor/default.html)
  
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 12. <h3 id="12">一句话经济学</h3>
 
 * 什么是利率？  
@@ -240,7 +227,6 @@ suggested sharing:
   美国国债和存款利率之间谁高另外一端就会追上来，理论上存款利率必然低于国债利率，否则大家都会把存款拿出来买国债，导致国债利率下降到低于存款利率。除非国债疯狂供应。但是央行也不会这么做，不合逻辑。  
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
-
 13. <h3 id="13">现状</h3>
 * **重要**： 美国已退出中导条约    
 * 日韩贸易战  
