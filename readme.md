@@ -162,12 +162,12 @@ suggested sharing:
 
 根据7月份的PMI指数，整体PMI好转但仍未超过50，表示现在库存周期正处于被动去库存转向主动加库存的过程中。尚未有力证明经济就能马上好转。
 
-4- [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）
-5- [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油
-6- [国债](http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0L09&sj=2018) / 资产负债表 --  汽油
-7- [杠杆](http://data.eastmoney.com/rzrq/sh.html) -- 融资余额/GDP -- 两融标的(2%以下是极限)
-8- [贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98)
-9- [花旗经济意外指数 ？？](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Citi%20Economic%20Surprise%20Index&oq=%25E8%258A%25B1%25E6%2597%2597%25E7%25BB%258F%25E6%25B5%258E%25E6%2584%258F%25E5%25A4%2596%25E6%258C%2587%25E6%2595%25B0&rsv_pq=e55af96500169af7&rsv_t=5bcbXDWQDRfc7b4W0UzUN1ngJkxpc8lIgilBPv1A03uWoVumZZPWsnY8SS8&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=4&rsv_n=2&rsv_sug2=0&inputT=562&rsv_sug4=602)
+4- [人民币汇率](http://www.chinamoney.com.cn/english/) vs US / [CFETS](http://www.chinamoney.com.cn/english/bmkrrtrdc/)  --  汽油 （利率已经在这里看过了）  
+5- [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)  --  汽油  
+6- [国债](http://data.stats.gov.cn/easyquery.htm?cn=C01&zb=A0L09&sj=2018) / 资产负债表 --  汽油  
+7- [杠杆](http://data.eastmoney.com/rzrq/sh.html) -- 融资余额/GDP -- 两融标的(2%以下是极限)  
+8- [贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98)  
+9- [花旗经济意外指数 ？？](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Citi%20Economic%20Surprise%20Index&oq=%25E8%258A%25B1%25E6%2597%2597%25E7%25BB%258F%25E6%25B5%258E%25E6%2584%258F%25E5%25A4%2596%25E6%258C%2587%25E6%2595%25B0&rsv_pq=e55af96500169af7&rsv_t=5bcbXDWQDRfc7b4W0UzUN1ngJkxpc8lIgilBPv1A03uWoVumZZPWsnY8SS8&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=4&rsv_n=2&rsv_sug2=0&inputT=562&rsv_sug4=602)  
 
 ** 行情(偏技术面)：
 10- 板块： 一产农林牧渔；二产制造业；三产服务业及其他产业. 
