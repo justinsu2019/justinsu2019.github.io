@@ -89,6 +89,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [美国债务表](https://www.usdebtclock.org/)
 * [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
 * [VIX](https://www.marketwatch.com/investing/index/vix) | [国内VIX网址](https://cn.investing.com/indices/volatility-s-p-500)
+* [全球市场指数](https://www.marketwatch.com/investing/index/djia)
 
 * 国际:
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
