@@ -103,7 +103,7 @@ A股：
 
 美国：
 * [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
-* [PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
+* [PMI / ISM](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
 * [美国债务表](https://www.usdebtclock.org/)
 * [VIX](https://www.marketwatch.com/investing/index/vix) | [国内VIX网址](https://cn.investing.com/indices/volatility-s-p-500)
 * [全球市场指数](https://www.marketwatch.com/investing/index/djia)
