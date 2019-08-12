@@ -117,7 +117,7 @@ A股：
 * [全球外汇储备IMF database](http://data.imf.org/?sk=2DFB3380-3603-4D2C-90BE-A04D8BBCE237) | [详细](http://data.imf.org/regular.aspx?key=61280812)
 * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
-
+* [2018外汇储备 world map](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/FC%20reserve.PNG)
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
 
