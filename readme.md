@@ -23,7 +23,8 @@
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
-2. <h3 id="2">国情: </h3><h4>[back to menu](#0)</h4>
+2. <h3 id="2">国情: </h3> 
+[back to menu](#0)
 
 
 中国房市：
@@ -55,6 +56,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 3. <h3 id="3">Economics</h3>
+[back to menu](#0)
+
 * [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
 * [各国国债](https://cn.investing.com/rates-bonds/world-government-bonds)
 * [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
@@ -101,6 +104,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 4. <h3 id="4">Tech</h3>
+[back to menu](#0)
+
 * [DNN works for every excel database](https://github.com/justinsu2019/ML/tree/master/DNN%20works%20in%20everywhere/with%20TF)
 * [urlencode](https://1024tools.com/urlencode)
 * [image recognition](https://github.com/justinsu2019/ML/tree/master/Image%20recogination)
@@ -111,6 +116,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 5. <h3 id="5">Work</h3>
+[back to menu](#0)
 
 * [XXXXXX abbreviation list](https://justinsu2019.github.io/Acronyms.htm)
 
@@ -125,6 +131,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 6. <h3 id="6">guitar!!!</h3>
+[back to menu](#0)
+
 * [Guitar figure position]( https://justinsu2019.github.io/GuitarFigurePosition.html )
 
 * Guitar scores:
@@ -133,12 +141,16 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 7. <h3 id="7">eBay</h3>
+[back to menu](#0)
+
 * seller defense: [violation issue](https://sellerdefense.cn/)
 * [外贸大学](https://university.ebay.cn/)
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 8. <h3 id="8">Useful tools</h3>
+[back to menu](#0)
+
 * [FX calculator](https://justinsu2019.github.io/fx_calculator.html "FX calculator")
 
 * [Normal calculator]( https://justinsu2019.github.io/calculator.html)
@@ -148,10 +160,14 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 9. <h3 id="9"><a href="https://www.linkedin.com/in/justin-su-a036a8188/">linkedIn page</a></h3>
+[back to menu](#0)
+
 
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
 
 10. <h3 id="10">Political</h3>
+[back to menu](#0)
+
 * trump需要选举赢，就需要创造一个动荡的情况，美元下降就会让外债压力更低，本金是不会还的，长期的情况是借新还旧。所以黄金必然会涨, 但是没到还债的时间就不会这么早下跌.
 * 韩国和日本的贸易战，表明美国的影响力在滑坡，已经无暇自顾自然无法继续对其他国家的控制。
 * [美国债务表](https://www.usdebtclock.org/)
@@ -159,6 +175,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
 
 11. <h3 id="11">investment</h3>
+[back to menu](#0)
+
 suggested sharing:
 * [Yang shiguang's Digest](https://zh-cn.facebook.com/pg/%E6%A5%8A%E4%B8%96%E5%85%89%E7%9A%84%E6%96%B0%E8%A6%96%E9%87%8E-362509207185719/posts/?ref=page_internal)
 * [金钱爆/youtube](https://www.youtube.com/channel/UCrm095p7ZHRS1njmQ1wkgCg)
@@ -209,6 +227,7 @@ suggested sharing:
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
 
 12. <h3 id="12">一句话经济学</h3>
+[back to menu](#0)
 
 * 什么是利率？  
   利率就是货币的时间价值：    
@@ -246,6 +265,8 @@ suggested sharing:
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)
 
 13. <h3 id="13">现状</h3>
+[back to menu](#0)
+
 * **重要**： 美国已退出中导条约    
 * 日韩贸易战  
 * 中美贸易战刚刚开始，美国出尔反尔后中国开始暂定进口农产品是正式的第一次反击，非常可能要持续很久  - 人民币突破7关卡，贸易战中有可能会继续走低。    
