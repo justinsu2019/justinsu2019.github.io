@@ -99,7 +99,7 @@ A股：
 贵金属：
 * [黄金储备](http://m.safe.gov.cn/safe/whcb/index.html)
 
-* 美国：
+美国：
 * [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
 * [PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
 * [美国债务表](https://www.usdebtclock.org/)
@@ -108,7 +108,7 @@ A股：
 * [美国国家统计局](https://www.bea.gov/)
 * [美国财经网](https://tradingeconomics.com/united-states/gdp)
 
-* 国际:
+国际:
 * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
