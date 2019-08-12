@@ -109,7 +109,7 @@ A股：
 * [全球市场指数](https://www.marketwatch.com/investing/index/djia)
 * [美国国家统计局](https://www.bea.gov/)
 * [美国财经网](https://tradingeconomics.com/united-states/gdp)
-* [ISM details](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/US%20ISM.png)
+* [ISM details](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/US%20ISM.png): price index is lower and lower, new order is lower and lower too. which shows US economics is getting worse, US stock will not get high anymore.
 
 国际:
 * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
