@@ -111,6 +111,7 @@ A股：
 * [美国财经网](https://tradingeconomics.com/united-states/gdp)
 * [ISM details](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/US%20ISM.png): price index is lower and lower, new order is lower and lower too. which shows US economics is getting worse, US stock will not get high anymore.
 * [NASDAQ](http://www.fedprimerate.com/nasdaq-composite-history.htm#recent-nasdaq-close)
+* [NASDAQ VS ISM INDEX](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/NASDAQ%20VS%20ISM.png)
 
 国际:
 * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
