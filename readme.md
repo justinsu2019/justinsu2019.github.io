@@ -26,10 +26,14 @@
 2. <h3 id="2">国情: </h3> 
 * 央行数字货币即将发行，商业机构向央行全额、100%缴纳准备金，央行的数字货币依然是中央银行负债，由中央银行信用担保，具有无限法偿性。
 
-中国房市：
+* [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
+
 * [中国进口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E8%BF%9B%E5%8F%A3.png)
 * [中国出口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%87%BA%E5%8F%A3.png)
 
+* [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年以后，历史重演时但会基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
+
+中国房市：
 [中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%8A%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
 由图，2018年高峰年商品住宅销售面积（新订单数）和新开工面积（生产指数）几乎平齐，而今年截至上半年两个数据几乎和去年一致甚至还多一些，然而竣工面积已经明显放缓，说明**房企在主动去库存的过程**。具体下滑情况要看近两年详图：[中国商品住宅近两年的趋势](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%83%85%E5%86%B5.PNG)
 从上图可以看到，新开工面积近几年都保持平稳，但是今年上半年竣工的房屋量已经有非常明显的放缓达到-10%，这说明很多已经开工的土地可能已经搁置和延缓工期了，而从[土地购买的情况来看](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%9C%9F%E5%9C%B0%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5.PNG),自2015年以来地产商拿地的面积已经明显减少，再看今年上半年较去年减少的更明显。而拿地的成本已经高达0.5亿每万平米。相当于原材料价格持续走高（人为供给管控类商品，对应普通产品PMI的话应是降低才对），原材料库存明显降低。所以虽然看到新开工面积（生产指数）还在保持增长态势未变，但是从源头的生产原料已经明显得到抑制，**预期房产PMI指数必然回落。配合下文人口总量增幅极低，持续增加供给的结果会导致总体房价走低，但并不意味着个别城市房价的必然走势**。
@@ -61,50 +65,51 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 
 3. <h3 id="3">Economics</h3>
 
-
-* [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
+中国经济：
+* [国家统计局](http://www.stats.gov.cn/tjsj/)
+* [各国GDP预测](https://data.oecd.org/chart/5CDu)
 * [各国国债](https://cn.investing.com/rates-bonds/world-government-bonds)
-* [就业率创10年新低](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Employee%202008-now.PNG)
-* [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年以后，历史重演时但会基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
- * [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
- ** [各国GDP预测](https://data.oecd.org/chart/5CDu)
- ** [美国国家统计局](https://www.bea.gov/)
- ** [美国财经网](https://tradingeconomics.com/united-states/gdp)
- * [国家统计局](http://www.stats.gov.cn/tjsj/)
- * [黄金储备](http://m.safe.gov.cn/safe/whcb/index.html)
- * [中行：金融市场统计数据：股市成交量，债券统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750288/index.html)
- * [中行：利率，融资统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/index.html)
- * [上证指数/SSEC](https://cn.investing.com/indices/shanghai-composite-historical-data)
- * [上市公司公开披露](http://www.sse.com.cn/disclosure/listedinfo/announcement/)
- * [开户人数变化](http://www.chinaclear.cn/zdjs/tjyb1/center_tjbg.shtml)
- * [GDP](http://data.eastmoney.com/cjsj/gdp.html)
- * [CPI](http://data.eastmoney.com/cjsj/cpi.html)
- * [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html)
-   [M1&M2 Charts](http://value500.com/M1.asp)
- * [CFETS - 人民币对一揽子货币指数](http://www.chinamoney.com.cn/english/bmkrrtrrt/)
- * [人民币对USD汇率](http://www.chinamoney.com.cn/english/) 
- * [PMI](http://data.stats.gov.cn/search.htm?s=PMI) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。
- * [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)
- * [财新PMI 原版](http://pmi.caixin.com/)
- * [外商直接投资数据](http://data.eastmoney.com/cjsj/fdi.html)
- * [股指期货](http://www.cffex.com.cn/)
- * [主要国家的利率](http://data.eastmoney.com/cjsj/globalRate.html)
- * [两融](http://data.eastmoney.com/rzrq/sh.html)
- * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
-* NEW: [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。
+* [各国利率走向](http://data.eastmoney.com/cjsj/globalRate.html)
+* [主要国家的利率](http://data.eastmoney.com/cjsj/globalRate.html)
+* [CFETS - 人民币对一揽子货币指数](http://www.chinamoney.com.cn/english/bmkrrtrrt/) | [人民币对USD汇率](http://www.chinamoney.com.cn/english/) 
+* [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
+* [CPI](http://data.eastmoney.com/cjsj/cpi.html)
+* [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) | [M1&M2 Charts](http://value500.com/M1.asp)
+* [PMI](http://data.stats.gov.cn/search.htm?s=PMI) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。
+* [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi) | [财新PMI 原版](http://pmi.caixin.com/)
+* [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。
+
+
+A股：
+* [中行：金融市场统计数据：股市成交量，债券统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/3750288/index.html)
+* [上证指数/SSEC](https://cn.investing.com/indices/shanghai-composite-historical-data)
+* [上市公司公开披露](http://www.sse.com.cn/disclosure/listedinfo/announcement/)
+* [开户人数变化](http://www.chinaclear.cn/zdjs/tjyb1/center_tjbg.shtml)
+* [股指期货](http://www.cffex.com.cn/)
+* [两融](http://data.eastmoney.com/rzrq/sh.html)
+
+
+其他中国相关数据：
+* [中行：利率，融资统计等](http://www.pbc.gov.cn/diaochatongjisi/116219/116319/3750274/index.html)
+* [GDP](http://data.eastmoney.com/cjsj/gdp.html)
+* [外商直接投资数据](http://data.eastmoney.com/cjsj/fdi.html)
 * [各色期货投资品历史数据查询](https://vip.stock.finance.sina.com.cn/q/view/vFutures_History.php?jys=shfe&pz=SC&hy=SC0&breed=SC0&type=inner&start=2019-02-01&end=2019-08-12)
-* [海关官网](http://www.customs.gov.cn/customs/302249/302274/302277/index.html) | [海关数据查询](http://43.248.49.97/)
+* 进出口数据：[海关官网](http://www.customs.gov.cn/customs/302249/302274/302277/index.html) | [海关数据查询](http://43.248.49.97/)
 
-
+贵金属：
+* [黄金储备](http://m.safe.gov.cn/safe/whcb/index.html)
 
 * 美国：
+* [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
 * [PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
 * [美国债务表](https://www.usdebtclock.org/)
-* [CPI/PPI/Unemployee Rate/(I/EPI)](https://stats.bls.gov/)
 * [VIX](https://www.marketwatch.com/investing/index/vix) | [国内VIX网址](https://cn.investing.com/indices/volatility-s-p-500)
 * [全球市场指数](https://www.marketwatch.com/investing/index/djia)
+* [美国国家统计局](https://www.bea.gov/)
+* [美国财经网](https://tradingeconomics.com/united-states/gdp)
 
 * 国际:
+* [全球外汇储备排行](https://zh.tradingeconomics.com/country-list/foreign-exchange-reserves?continent=g20)
 * [全球外汇储备/季度](http://data.imf.org/?sk=E6A5F467-C14B-4AA8-9F6D-5A09EC4E62A4)
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
