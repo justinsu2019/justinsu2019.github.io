@@ -88,6 +88,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
  * [两融](http://data.eastmoney.com/rzrq/sh.html)
  * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 * NEW: [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。
+* [各色期货投资品历史数据查询](https://vip.stock.finance.sina.com.cn/q/view/vFutures_History.php?jys=shfe&pz=SC&hy=SC0&breed=SC0&type=inner&start=2019-02-01&end=2019-08-12)
 
 * 美国：
 * [PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
