@@ -120,6 +120,7 @@ A股：
 * [2018外汇储备 world map](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/FC%20reserve.PNG)
 * [全球房价指数](https://www.imf.org/external/research/housing/index.htm)
 * [联合国环境署](https://www.unenvironment.org/environment-you)
+* [全球PMI指数](https://www.markiteconomics.com/Public/Release/PressReleases?language=en)
 
 [back to menu](#0)
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
