@@ -30,6 +30,8 @@
 
 * [中国进口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E8%BF%9B%E5%8F%A3.png)
 * [中国出口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%87%BA%E5%8F%A3.png)
+* 从进出口结构得出：进口主要以机械车辆、专业仪器等高技术含量产品以及能源类为主。 出口主要以：机械、电信、办公设备、服装、工业零件等为主。从感官判断是以低成本+零星高科技为主。
+
 
 * [从中国历史的两次牛市来说，都不是基本面的影响。然而2019年以后，历史重演时但会基于同样的原因么？](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/A%20stock.PNG)
 
