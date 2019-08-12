@@ -113,7 +113,7 @@ A股：
 
 * [NASDAQ](http://www.fedprimerate.com/nasdaq-composite-history.htm#recent-nasdaq-close)
 * [NASDAQ VS ISM INDEX](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/NASDAQ%20VS%20ISM.png)
-* [美国2019-7行业market PMI](https://github.com/justinsu2019/justinsu2019.github.io/blob/master/economics/MARKET%20PMI%20-%20US%20SECTOR.png)
+* [美国2019-7行业market PMI](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/MARKET%20PMI%20-%20US%20SECTOR.png)
 
 
 国际:
