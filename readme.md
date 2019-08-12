@@ -28,6 +28,8 @@
 
 中国房市：
 
+* [中国出口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%87%BA%E5%8F%A3.png)
+
 [中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%8A%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
 由图，2018年高峰年商品住宅销售面积（新订单数）和新开工面积（生产指数）几乎平齐，而今年截至上半年两个数据几乎和去年一致甚至还多一些，然而竣工面积已经明显放缓，说明**房企在主动去库存的过程**。具体下滑情况要看近两年详图：[中国商品住宅近两年的趋势](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%83%85%E5%86%B5.PNG)
 从上图可以看到，新开工面积近几年都保持平稳，但是今年上半年竣工的房屋量已经有非常明显的放缓达到-10%，这说明很多已经开工的土地可能已经搁置和延缓工期了，而从[土地购买的情况来看](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%9C%9F%E5%9C%B0%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5.PNG),自2015年以来地产商拿地的面积已经明显减少，再看今年上半年较去年减少的更明显。而拿地的成本已经高达0.5亿每万平米。相当于原材料价格持续走高（人为供给管控类商品，对应普通产品PMI的话应是降低才对），原材料库存明显降低。所以虽然看到新开工面积（生产指数）还在保持增长态势未变，但是从源头的生产原料已经明显得到抑制，**预期房产PMI指数必然回落。配合下文人口总量增幅极低，持续增加供给的结果会导致总体房价走低，但并不意味着个别城市房价的必然走势**。
@@ -51,6 +53,8 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 中国资源：
 * 稀土储量5500万吨占全球13000万吨的42.3%（美国统计局数据），[稀土行业详情](http://baike.asianmetal.cn/metal/re/resources&production.shtml)。
 * 2009年，中国稀土氧化物产量为12万吨，占全球产量的97%。作为世界稀土资源主要供应源，我国稀土资源储量逐年减少，为了遏制国内稀土不顾市场需求的盲目开采，从2007年起国家开始对稀土开采总量和各企业的生产指标实行"指令性计划"。
+
+
 
 [back to menu](#0)
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
