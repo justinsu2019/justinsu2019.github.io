@@ -24,12 +24,9 @@
 ![I am a cool robot](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/images/Capture111.PNG)  
 
 2. <h3 id="2">国情: </h3> 
-
-
+* 央行数字货币即将发行，商业机构向央行全额、100%缴纳准备金，央行的数字货币依然是中央银行负债，由中央银行信用担保，具有无限法偿性。
 
 中国房市：
-
-* 央行数字货币即将发行，商业机构向央行全额、100%缴纳准备金，央行的数字货币依然是中央银行负债，由中央银行信用担保，具有无限法偿性。
 
 [中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%8A%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
 由图，2018年高峰年商品住宅销售面积（新订单数）和新开工面积（生产指数）几乎平齐，而今年截至上半年两个数据几乎和去年一致甚至还多一些，然而竣工面积已经明显放缓，说明**房企在主动去库存的过程**。具体下滑情况要看近两年详图：[中国商品住宅近两年的趋势](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%83%85%E5%86%B5.PNG)
