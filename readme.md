@@ -27,7 +27,7 @@
 * 央行数字货币即将发行，商业机构向央行全额、100%缴纳准备金，央行的数字货币依然是中央银行负债，由中央银行信用担保，具有无限法偿性。
 
 中国房市：
-
+* [中国进口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E8%BF%9B%E5%8F%A3.png)
 * [中国出口结构构成 2019-6](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E5%87%BA%E5%8F%A3.png)
 
 [中国商品住宅历史走势图](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E5%8E%86%E5%8F%B2%E8%B5%B0%E5%8A%BF%E8%AF%A6%E6%83%85%202000-2019.PNG)
