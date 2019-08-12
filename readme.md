@@ -192,7 +192,8 @@ suggested sharing:
   [中证网](http://www.cs.com.cn/)
   [财经日历](https://www.dailyfxasia.com/calendar)
   [外国舆论](https://us.cnn.com/)
-
+  [FX](https://www.dailyfxasia.com/forex-rates)
+  [A stock](http://quote.eastmoney.com/favor/default.html)
 
 
 ** 数据：
