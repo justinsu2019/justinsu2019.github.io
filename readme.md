@@ -106,7 +106,7 @@ A股：
 * [PMI / ISM](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)
 * [美国债务表](https://www.usdebtclock.org/)
 * [VIX](https://www.marketwatch.com/investing/index/vix) | [国内VIX网址](https://cn.investing.com/indices/volatility-s-p-500)
-* [全球市场指数](https://www.marketwatch.com/investing/index/djia)
+* [全球市场指数](https://www.marketwatch.com/investing/index/djia) : <!--market1234-->
 * [美国国家统计局](https://www.bea.gov/)
 * [美国财经网](https://tradingeconomics.com/united-states/gdp)
 * [ISM details](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/US%20ISM.png): price index is lower and lower, new order is lower and lower too. which shows US economics is getting worse, US stock will not get high anymore.
