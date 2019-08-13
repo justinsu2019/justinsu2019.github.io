@@ -1,6 +1,7 @@
 ## What's the future may looks like (dang dang dang dang~~~)
 
 1 how tech is changing the world --------------------------------------------------
+* 亚马逊送货机器人 AI文案员上线 - 替代的时刻更近了
 * 百度 - AI - 大数据
 * 智能助手 - 一次唤醒多轮对话，并且可以三方沟通
 * AI字幕"CC"低成本化所有节目 - AI弹幕进行时
