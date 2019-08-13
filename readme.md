@@ -245,6 +245,7 @@ suggested sharing:
 * [概念板块 资金流向](http://data.eastmoney.com/bkzj/gn.html)
 * 是否有齐头量
 * 风险是多少
+* [融资融券量](http://data.eastmoney.com/rzrq/sh.html)
 
 11- 个股基本面，业绩情况近期新闻  
 
