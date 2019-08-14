@@ -76,7 +76,7 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [CFETS - 人民币对一揽子货币指数](http://www.chinamoney.com.cn/english/bmkrrtrrt/) | [人民币对USD汇率](http://www.chinamoney.com.cn/english/) 
 * [存款准备金率](http://data.eastmoney.com/cjsj/ckzbj.html)
 * [CPI](http://data.eastmoney.com/cjsj/cpi.html)
-* [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) | [M1&M2 Charts](http://value500.com/M1.asp)
+* [M1&M2 国家统计局](http://data.stats.gov.cn/easyquery.htm?cn=A01) | [M1&M2](http://data.eastmoney.com/cjsj/hbgyl.html) | [M1&M2 Charts](http://value500.com/M1.asp)
 * [PMI](http://data.stats.gov.cn/search.htm?s=PMI) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。  
 * [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi) | [财新PMI 原版](http://pmi.caixin.com/)  
 
