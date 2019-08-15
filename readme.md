@@ -243,6 +243,7 @@ CPI__AStock+1__61%
 CAIXIN PMI__ASTOCK+1__55.6%  
 M1-M2__AStocK+1__57%  
 财新PMI__CPI+2__69.7%  
+CPI+M1-M2+PMI__AStock+1__61%  
 
 
 3- 库存周期：
