@@ -235,11 +235,15 @@ suggested sharing:
 [财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)  
 
 tips:
-指数     指数           契合度
-PMI     AStock          58.1%
-PMI     CPI+1            63.7%
-CPI     AStock+1         61%
-财新PMI  CPI+2           69.7%
+指数__指数__契合度:
+PMI__AStock__58.1%  
+
+PMI__CPI+1__63.7%  
+
+CPI__AStock+1__61%  
+
+财新PMI__CPI+2__69.7%  
+
 
 
 财新PMI的变化方向和两个月以后的CPI变化方向有69.7%的契合度， PMI的变化方向和1个月以后的CPI变化方向有63.7%的契合度，CPI变化方向和1个月以后的A Stock的变化方向有61%的契合度， 而PMI和当月的 
