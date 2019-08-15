@@ -236,17 +236,14 @@ suggested sharing:
 
 tips:
 指数__指数__契合度:
+CAIXIN PMI__PMI+1__60% 
 PMI__AStock__58.1%  
-
 PMI__CPI+1__63.7%  
-
 CPI__AStock+1__61%  
-
+CAIXIN PMI__ASTOCK+1__55.6%  
+M1-M2__AStocK+1__57%  
 财新PMI__CPI+2__69.7%  
 
-
-
-财新PMI的变化方向和两个月以后的CPI变化方向有69.7%的契合度， PMI的变化方向和1个月以后的CPI变化方向有63.7%的契合度，CPI变化方向和1个月以后的A Stock的变化方向有61%的契合度， 而PMI和当月的 
 
 3- 库存周期：
 ![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
