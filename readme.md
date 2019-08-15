@@ -80,8 +80,6 @@ PS: 在手订单数就是已售期房数量，占总体销售比例大约90%的�
 * [PMI](http://data.stats.gov.cn/search.htm?s=PMI) 是领先指标，因为是直观的判断所有参与者的情绪的重要指标。所以看一国经济情况，可以直接先看PMI的情况。  
 * [财新PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi) | [财新PMI 原版](http://pmi.caixin.com/)  
 
-tips: 财新PMI的变化方向和两个月以后的CPI变化方向有69.7%的契合度， PMI的变化方向和1个月以后的CPI变化方向有63.7%的契合度  
-
 * [新动能指标 NEW（by China only）](http://www.stats.gov.cn/tjsj/zxfb/201907/t20190731_1683083.html)：指标的主要目的在于反映中国经济动向和进度。  
 
 
@@ -236,6 +234,15 @@ suggested sharing:
 
 [财新 PMI](https://www.mql5.com/zh/economic-calendar/china/caixin-manufacturing-pmi)  
 
+tips:
+指数     指数           契合度
+PMI     AStock          58.1%
+PMI     CPI+1            63.7%
+CPI     AStock+1         61%
+财新PMI  CPI+2           69.7%
+
+
+财新PMI的变化方向和两个月以后的CPI变化方向有69.7%的契合度， PMI的变化方向和1个月以后的CPI变化方向有63.7%的契合度，CPI变化方向和1个月以后的A Stock的变化方向有61%的契合度， 而PMI和当月的 
 
 3- 库存周期：
 ![库存周期图表（需求也可以被认为是价格）](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Stock%20Curve.PNG)
