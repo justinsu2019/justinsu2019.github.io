@@ -11,7 +11,7 @@ There are 3 steps to tell how gold main trend gonna go?
 4） 全球通货膨胀走向  
 5） 黄金年产量  
 6） 黄金开采成本的升降工业和饰品用金的增减等  
-7)  金银价比来查看是否会有白银的机会。  
+7） 金银价比来查看是否会有白银的机会。  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,5 +44,5 @@ There are 3 steps to tell how gold main trend gonna go?
 
 6. <h3 id="1">额 黄金开采成本怎么会有人告诉你。。。再想想从哪些数据可以拿到。</h3>
 
-
+7. ![金银价比](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Gold%20vs%20Silver.PNG)
 
