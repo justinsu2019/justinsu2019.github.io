@@ -54,5 +54,7 @@ There are 3 steps to tell how gold main trend gonna go?
 dataSource = https://cn.investing.com/commodities/metals
 
 8. <h3 id="1">国际黄金组织金价预期模型</h3>
-[金价预期模型](https://www.gold.org/goldhub/data/short-term-gold-price-drivers)  
+[金价短期预期模型](https://www.gold.org/goldhub/data/short-term-gold-price-drivers)  
 竟然并不怎么准，并且还有很大一坨数据是unexplained!!!
+
+[金价长期影响因素](https://www.gold.org/goldhub/data/long-term-gold-price-drivers)
