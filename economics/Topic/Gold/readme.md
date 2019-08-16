@@ -35,31 +35,34 @@ There are 3 steps to tell how gold main trend gonna go?
 
 [未来12个月全球央行黄金储备预期，无人预期减持！](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/How%20do%20you%20expect%20global%20central%20bank%20gold%20reserves%20to%20change%20over%20the%20next%2012%20months..PNG)
 
-3. <h3 id="1">度娘</h3>：贸易战，以及查看热点等。 没有标准的流程
+3.  <h3 id="1">货币政策</h3>
+调节总需求的货币政策的四大工具为法定准备金率，公开市场业务和贴现政策、基准利率。
 
-4. <h3 id="1">各国CPI走向</h3>
+4. <h3 id="1">度娘</h3>：贸易战，以及查看热点等。 没有标准的流程
+
+5. <h3 id="1">各国CPI走向</h3>
 1） 首先关注美国CPI。 根据中国的CPI情况，验证美国是否可以用PMI和M1&M2的走势来预计CPI的走势，同时继续看是否有更精准或更长期范围内预测的可能。
 2） 中国CPI。全球第二大经济体的CPI走势也将非常重磅，用PMI和财新PMI来预计。
 3） 欧美国家CPI。 依然要尝试验证CPI的领先指标是哪些。
 
-5. <h3 id="1">黄金年产量</h3>
+6. <h3 id="1">黄金年产量</h3>
 * [中国黄金协会月报](http://www.cngold.org.cn/news.aspx?id=46)
 * [世界黄金组织数据 -- 供需关系](https://www.gold.org/goldhub/data/demand-and-supply)
 
-6. <h3 id="1">额 黄金开采成本怎么会有人告诉你。。。再想想从哪些数据可以拿到。</h3>
+7. <h3 id="1">额 黄金开采成本怎么会有人告诉你。。。再想想从哪些数据可以拿到。</h3>
 [不如看看黄金需求结构](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics)
 
 [开采成本仅供参考，本人表示怀疑](https://www.gold.org/goldhub/data/production-costs)
 
-7. <h3 id="1">金银价比</h3>
+8. <h3 id="1">金银价比</h3>
 ![](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Gold%20vs%20Silver.PNG)
 dataSource = https://cn.investing.com/commodities/metals
 
-8. <h3 id="1">国际黄金组织金价预期模型</h3>
+9. <h3 id="1">国际黄金组织金价预期模型</h3>
 [金价短期预期模型](https://www.gold.org/goldhub/data/short-term-gold-price-drivers)  
 竟然并不怎么准，并且还有很大一坨数据是unexplained!!!
 
 [金价长期影响因素](https://www.gold.org/goldhub/data/long-term-gold-price-drivers)
 
-9. <h3 id="1">Gold Investment reason</h3>
+10. <h3 id="1">Gold Investment reason</h3>
 [央行投资黄金的原因](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Central%20banks%20relevance.PNG)
