@@ -45,6 +45,7 @@ There are 3 steps to tell how gold main trend gonna go?
 * [世界黄金组织数据 -- 供需关系](https://www.gold.org/goldhub/data/demand-and-supply)
 
 6. <h3 id="1">额 黄金开采成本怎么会有人告诉你。。。再想想从哪些数据可以拿到。</h3>
+[不如看看黄金需求结构](https://www.gold.org/goldhub/data/gold-supply-and-demand-statistics)
 
 7. <h3 id="1">金银价比</h3>
 ![](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Gold%20vs%20Silver.PNG)
