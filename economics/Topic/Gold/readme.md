@@ -50,3 +50,5 @@ There are 3 steps to tell how gold main trend gonna go?
 ![](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Gold%20vs%20Silver.PNG)
 dataSource = https://cn.investing.com/commodities/metals
 
+8. <h3 id="1">国际黄金组织金价预期模型</h3>
+[金价预期模型](https://www.gold.org/goldhub/data/short-term-gold-price-drivers)
