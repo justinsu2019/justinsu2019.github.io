@@ -15,7 +15,7 @@
 * [linkedIn page](#9)
 * [Political](#10)
 * [investment](#11)
-* [Gold investment](https://github.com/justinsu2019/justinsu2019.github.io/blob/master/economics/Topic/Gold.md)
+* [Gold investment](https://justinsu2019.github.io/economics/Topic/Gold)
 * [一句话经济学](#12)
 * [现状](#13)
 
