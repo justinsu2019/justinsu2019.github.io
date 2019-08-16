@@ -16,15 +16,14 @@ There are 3 steps to tell how gold main trend gonna go?
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 1. <h3 id="1">汇率、利率</h3>  
-1） 美元10年期国债和当下美联储利率以及各期国债对比，如果出现倒挂则是比较明显的经济衰退的表现，也预期美元利率即将走低。不论美联储的动作会如何，市场买账的依然将会是债市预期。  
-[美国国债](https://cn.investing.com/rates-bonds/world-government-bonds#rates_bonds_table_43)
+1） 美元10年期国债和当下美联储利率以及各期国债对比，如果出现倒挂则是比较明显的经济衰退的表现，也预期美元利率即将走低。不论美联储的动作会如何，市场买账的依然将会是债市预期。  [美国国债](https://cn.investing.com/rates-bonds/world-government-bonds#rates_bonds_table_43)
 2） 由美元10年期国债收益率和当下利率对比得到美元真实利率预期，这一预期与黄金价格走向预期成反向关系  
 3） 查看RMB走势  
 * RMB走势相对复杂，需要判断央行意思：  
 主要关注当RMB突破重要位置后，央行的表态。  
-央行逆回购操作的力度和周期  
-每月货币供给量的变化
-4） RMB的走势也是和黄金成反向关系  
+  [央行逆回购操作的力度和周期](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%A4%AE%E8%A1%8C%E9%80%86%E5%9B%9E%E8%B4%AD%E8%AE%B0%E5%BD%95&oq=%25E9%25BB%2584%25E9%2587%2591%25E5%258E%2586%25E5%258F%25B2%25E4%25BB%25B7%25E6%25A0%25BC&rsv_pq=ac5d3832000a47e6&rsv_t=e8f8FxQDYpagzUlBlzA%2FTLjGUrbdAWtNzXG9XeAyR3nPYGLG6Gdcd7LtW0U&rqlang=cn&rsv_enter=1&rsv_dl=tb&inputT=3313&rsv_sug3=11&rsv_sug1=8&rsv_sug7=100&rsv_sug2=0&rsv_sug4=4333)
+[每月货币供给量的变化](http://data.stats.gov.cn/easyquery.htm?cn=A01)
+4） [RMB的走势也是和黄金成反向关系](http://www.chinamoney.com.cn/english/bmkrrtrrt/)  
 以上就是需要分析的汇率利率部分的影响。
 
 
