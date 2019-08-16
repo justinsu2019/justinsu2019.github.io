@@ -15,7 +15,7 @@
 * [linkedIn page](#9)
 * [Political](#10)
 * [investment](#11)
-* [Gold investment](https://justinsu2019.github.io/economics/Topic/Gold)
+* [投资黄金的逻辑](https://justinsu2019.github.io/economics/Topic/Gold)
 * [一句话经济学](#12)
 * [现状](#13)
 
