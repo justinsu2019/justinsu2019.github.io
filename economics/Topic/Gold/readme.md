@@ -13,6 +13,8 @@ There are 3 steps to tell how gold main trend gonna go?
 6） 黄金开采成本的升降工业和饰品用金的增减等  
 7） 金银价比来查看是否会有白银的机会。  
 
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 1. <h3 id="1">汇率、利率</h3>  
@@ -58,3 +60,6 @@ dataSource = https://cn.investing.com/commodities/metals
 竟然并不怎么准，并且还有很大一坨数据是unexplained!!!
 
 [金价长期影响因素](https://www.gold.org/goldhub/data/long-term-gold-price-drivers)
+
+9. <h3 id="1">Gold Investment</h3>
+[央行投资黄金的原因](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Central%20banks%20relevance.PNG)
