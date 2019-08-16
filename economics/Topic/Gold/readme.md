@@ -30,6 +30,7 @@ There are 3 steps to tell how gold main trend gonna go?
 
 2. <h3 id="1">各国央行储备变动</h3>  
 [世界黄金组织数据库](https://www.gold.org/goldhub/data/monthly-central-bank-statistics)
+[未来12个月全球央行黄金储备预期，无人预期减持！](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/How%20do%20you%20expect%20global%20central%20bank%20gold%20reserves%20to%20change%20over%20the%20next%2012%20months..PNG)
 
 3. <h3 id="1">度娘</h3>：贸易战，以及查看热点等。 没有标准的流程
 
