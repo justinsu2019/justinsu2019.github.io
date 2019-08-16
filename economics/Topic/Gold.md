@@ -1,4 +1,4 @@
-# How to invest on Gold?
+# How to invest on Gold/Sliver?
 
 There are 3 steps to tell how gold main trend gonna go?  
 
@@ -11,7 +11,7 @@ There are 3 steps to tell how gold main trend gonna go?
 4） 全球通货膨胀走向  
 5） 黄金年产量  
 6） 黄金开采成本的升降工业和饰品用金的增减等  
-  
+7)  金银价比来查看是否会有白银的机会。  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
