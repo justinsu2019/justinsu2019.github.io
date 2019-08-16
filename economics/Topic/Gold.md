@@ -16,6 +16,7 @@ There are 3 steps to tell how gold main trend gonna go?
 
 1. <h3 id="1">汇率、利率</h3>  
 1） 美元10年期国债和当下美联储利率以及各期国债对比，如果出现倒挂则是比较明显的经济衰退的表现，也预期美元利率即将走低。不论美联储的动作会如何，市场买账的依然将会是债市预期。  
+[美国国债](https://cn.investing.com/rates-bonds/world-government-bonds#rates_bonds_table_43)
 2） 由美元10年期国债收益率和当下利率对比得到美元真实利率预期，这一预期与黄金价格走向预期成反向关系  
 3） 查看RMB走势  
 * RMB走势相对复杂，需要判断央行意思：  
