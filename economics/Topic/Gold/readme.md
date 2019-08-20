@@ -49,11 +49,11 @@ There are 3 steps to tell how gold main trend gonna go?
 3.  <h3 id="1">货币政策</h3>
 调节总需求的货币政策的四大工具为法定准备金率，公开市场业务和贴现政策、基准利率。
 
-4. <h3 id="1">度娘</h3>：贸易战，以及查看热点等。 没有标准的流程
+4. <h3 id="1">度娘</h3>：[贸易战](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%B4%B8%E6%98%93%E6%88%98&oq=salute&rsv_pq=e80ffe94000e495b&rsv_t=742971JXOrf370%2B7g%2FViXTP2v%2Ff8APmK7tWTP2WaFhRptNX7fCgxuhwZ3e0&rqlang=cn&rsv_enter=0&rsv_dl=tb&inputT=983&rsv_sug3=5&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1491)，以及查看热点等。 没有标准的流程
 
 5. <h3 id="1">各国CPI走向</h3>
-1） 首先关注美国CPI。 根据中国的CPI情况，验证美国是否可以用PMI和M1&M2的走势来预计CPI的走势，同时继续看是否有更精准或更长期范围内预测的可能。
-2） 中国CPI。全球第二大经济体的CPI走势也将非常重磅，用PMI和财新PMI来预计。
+1） 首先关注[美国CPI](https://stats.bls.gov/)。 根据[中国的CPI](http://data.eastmoney.com/cjsj/cpi.html)情况，验证美国是否可以用[PMI](https://www.instituteforsupplymanagement.org/certification/content.cfm?ItemNumber=28965&navItemNumber=30243)和M1&M2的走势来预计CPI的走势，同时继续看是否有更精准或更长期范围内预测的可能。
+2） [中国CPI](http://data.eastmoney.com/cjsj/cpi.html)。全球第二大经济体的CPI走势也将非常重磅，用PMI和财新PMI来预计。
 3） 欧美国家CPI。 依然要尝试验证CPI的领先指标是哪些。
 
 6. <h3 id="1">黄金年产量</h3>
