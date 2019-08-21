@@ -99,15 +99,19 @@ dataSource = https://cn.investing.com/commodities/metals
 [央行投资黄金的原因](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Central%20banks%20relevance.PNG)
 
 总结,按重要性排序:
-1 | 避险 | 
-2 | 多样化投资  | (避险)
-3 | 货币属性 | 
-4 | 历史地位 | 
+
+No.| Reason|Category
+-|-|-
+1 | 避险 | 避险
+2 | 多样化投资 | 避险
+3 | 货币属性 | 货币
+4 | 历史地位 | 历史
 5 | 政治风险 | 
 6 | 无违约风险 |
 7 | 高流动性 | 
-5 | 与其他资产的相关性低 | 
-5 | 提高风险回报 | 
-5 |  | 
-5 | 政治风险 | 
-
+8 | 与其他资产的相关性低 | 
+9 | 提高风险回报 | 
+10 | 资产抵押品 | 
+11 | 通胀对冲品 | 
+12 | 全情景有回报属性 | 
+13 | 政治工具 | 
