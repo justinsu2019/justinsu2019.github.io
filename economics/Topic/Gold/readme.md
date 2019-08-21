@@ -98,3 +98,16 @@ dataSource = https://cn.investing.com/commodities/metals
 10. <h3 id="1">Gold Investment reason</h3>
 [央行投资黄金的原因](https://raw.githubusercontent.com/justinsu2019/justinsu2019.github.io/master/economics/Central%20banks%20relevance.PNG)
 
+总结,按重要性排序:
+1 | 避险 | 
+2 | 多样化投资  | (避险)
+3 | 货币属性 | 
+4 | 历史地位 | 
+5 | 政治风险 | 
+6 | 无违约风险 |
+7 | 高流动性 | 
+5 | 与其他资产的相关性低 | 
+5 | 提高风险回报 | 
+5 |  | 
+5 | 政治风险 | 
+
